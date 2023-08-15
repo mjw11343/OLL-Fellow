@@ -3,6 +3,30 @@
 import os
 from tkinter import filedialog
 import csv
+from dataclasses import dataclass, astuple
+
+@dataclass
+class Tribe():
+    name: str
+    basicApplied: bool
+    basicYears: str
+    enhancedApplied: bool
+    enhancedYears: str
+    basic2023: bool
+    basic2022: bool
+    basic2021: bool
+    basic2020: bool
+    basic2019: bool
+    basic2018: bool
+    enhanced2023: bool
+    enhanced2022: bool
+    enhanced2021: bool
+    enhanced2020: bool
+    enhanced2019: bool
+    enhanced2018: bool
+
+
+
 
 def export_to_csv(data, file_name):
     """
@@ -16,7 +40,7 @@ def export_to_csv(data, file_name):
         None
     """
     try:
-        with open(file_name, 'w', newline='', encoding='utf-8') as csvfile:
+        with open(file_name, 'w', newline='', encoding='utf-8-sig') as csvfile:
             csv_writer = csv.writer(csvfile)
             for row in data:
                 csv_writer.writerow(row)
@@ -25,25 +49,46 @@ def export_to_csv(data, file_name):
         print(f"Error while exporting to '{file_name}': {e}")
 
 
-#this functions imports the CSV and puts it in a two dimensional
-#array
-def importCSV():
-    #This allows you to choose 
-    file_path = filedialog.askopenfilename()
-    with open(file_path, 'r', encoding="utf-8-sig") as f:
-        linesOneD = f.readlines()
-    x=0
-    linesTwoD = []
-    #If there are commas in the cell contents
-    #there will be problems
-    while(x < len(linesOneD)):
-        linesOneD[x] = linesOneD[x].strip()
-        linesTwoD.append(linesOneD[x].split(','))
-        x = x + 1
-    return linesTwoD
+def importCSV(path):
+    """
+    Import a CSV file to a Dict.
+
+    Parameters:
+        data (str): The path to the CSV file to import.
+    
+    Returns:
+        csv_reader (dict): Iterable dictionary of csv lines.
+    """
+    csvfile = open(path, newline='', encoding='utf-8-sig')
+    csv_reader = csv.DictReader(csvfile)
+    return csv_reader
+
+def establishClass(basic, enhanced):
+    """
+    Organize basic and enhanced
+
+    Returns:
+        data (dict) = Dictionary of all unique tribes, with aggregated years.
+    """
+    data = {}
+    print(basic)
+    for row in basic:
+        print(1)
+        currLib = data.setdefault(row['Institution'], Tribe(row['Institution']))
+        #basic applied
+        currLib.basicApplied = True
+        #tracking years applied to basic 
+        currLib.basicYears = currLib.basicYears + row['Fiscal Year']
+        #tracking specific years
+        if('2021' in currLib.basicYears):
+            currLib.basic2021 = True
+            print(True)
+        assert astuple(currLib)
+        print(currLib)
+    return
 
 #list for tracks tribes: 1) name, 2) applied to basic, 3) years to basic, 4) applied to enhanced, 5) years to enhanced, 6) applied to both
-theList = []
+tribes = {}
 #theList 1st dimension is for each tribe
 #   theList[x], x = each different tribe
 #
@@ -66,19 +111,57 @@ theList = []
 #theList[x][16] = '2019'
 #theList[x][17] = '2018'
 
-basic = importCSV()
+basic = importCSV(r"C:\Users\Slewe\OneDrive - UW-Madison\Open Law Library Fellowship\IMLS Grant Comparison\basicGrants.csv")
+print(basic)
+for row in basic:
+    print(1)
+    currLib = tribes.setdefault(row['Institution'], Tribe(name="" + row['Institution'], 
+                                                          basicApplied=True, 
+                                                          basicYears=""+row['Fiscal Year'],
+                                                          enhancedApplied=False,
+                                                          enhancedYears="",
+                                                          basic2023=False,
+                                                          basic2022=False,
+                                                          basic2021=False,
+                                                          basic2020=False,
+                                                          basic2019=False,
+                                                          basic2018=False,
+                                                          enhanced2023=False,
+                                                          enhanced2022=False,
+                                                          enhanced2021=False,
+                                                          enhanced2020=False,
+                                                          enhanced2019=False,
+                                                          enhanced2018=False))
+    #basic applied
+    currLib.basicApplied = True
+    print(currLib.basicApplied)
+    #tracking years applied to basic 
+    print(row['Fiscal Year'])
+    print(type(row['Fiscal Year']))
+    print(type(currLib.basicYears))
+    currLib.basicYears = currLib.basicYears + row['Fiscal Year']
+    #tracking specific years
+    if('2021' in currLib.basicYears):
+        currLib.basic2021 = True
+        print(True)
+    assert astuple(currLib)
+    print(currLib)
 #basic[x][0] = name
 #basic[x][1] = year
 #basic[x][2] = city
 #basic[x][3] = state
 #print(len(basic))
 #print(basic)
-enhanced = importCSV()
+
+enhanced = importCSV(r"C:\Users\Slewe\OneDrive - UW-Madison\Open Law Library Fellowship\IMLS Grant Comparison\EnhancementGrants.csv")
+print(enhanced)
 #enhanced[x][0] = name
 #enhanced[x][1] = year
 #enhanced[x][2] = city
 #enhanced[x][3] = state
 #print(enhanced)
+print("TEST")
+tribes = establishClass(basic, enhanced)
 
 x = 0
 while(x < len(basic)):
