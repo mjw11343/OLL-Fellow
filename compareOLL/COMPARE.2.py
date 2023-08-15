@@ -73,18 +73,43 @@ def establishClass(basic, enhanced):
     data = {}
     print(basic)
     for row in basic:
-        print(1)
-        currLib = data.setdefault(row['Institution'], Tribe(row['Institution']))
-        #basic applied
-        currLib.basicApplied = True
+        currLib = tribes.setdefault(row['Institution'], Tribe(name="" + row['Institution'], 
+                                                          basicApplied=True, 
+                                                          basicYears=""+row['Fiscal Year'],
+                                                          enhancedApplied=False,
+                                                          enhancedYears="",
+                                                          basic2023=False,
+                                                          basic2022=False,
+                                                          basic2021=False,
+                                                          basic2020=False,
+                                                          basic2019=False,
+                                                          basic2018=False,
+                                                          enhanced2023=False,
+                                                          enhanced2022=False,
+                                                          enhanced2021=False,
+                                                          enhanced2020=False,
+                                                          enhanced2019=False,
+                                                          enhanced2018=False))
         #tracking years applied to basic 
-        currLib.basicYears = currLib.basicYears + row['Fiscal Year']
+        if(row['Fiscal Year'] not in currLib.basicYears):
+            currLib.basicYears = currLib.basicYears + ', ' + row['Fiscal Year']
         #tracking specific years
+        if('2023' in currLib.basicYears):
+            currLib.basic2023 = True
+        if('2022' in currLib.basicYears):
+            currLib.basic2022 = True
         if('2021' in currLib.basicYears):
             currLib.basic2021 = True
-            print(True)
-        assert astuple(currLib)
-        print(currLib)
+        if('2020' in currLib.basicYears):
+            currLib.basic2020 = True
+        if('2019' in currLib.basicYears):
+            currLib.basic2019 = True
+        if('2018' in currLib.basicYears):
+            currLib.basic2018 = True
+        #add currLib to new library: data
+        data[currLib.name] = currLib
+        #debug
+        print(data[currLib.name])
     return
 
 #list for tracks tribes: 1) name, 2) applied to basic, 3) years to basic, 4) applied to enhanced, 5) years to enhanced, 6) applied to both
@@ -113,39 +138,7 @@ tribes = {}
 
 basic = importCSV(r"C:\Users\Slewe\OneDrive - UW-Madison\Open Law Library Fellowship\IMLS Grant Comparison\basicGrants.csv")
 print(basic)
-for row in basic:
-    print(1)
-    currLib = tribes.setdefault(row['Institution'], Tribe(name="" + row['Institution'], 
-                                                          basicApplied=True, 
-                                                          basicYears=""+row['Fiscal Year'],
-                                                          enhancedApplied=False,
-                                                          enhancedYears="",
-                                                          basic2023=False,
-                                                          basic2022=False,
-                                                          basic2021=False,
-                                                          basic2020=False,
-                                                          basic2019=False,
-                                                          basic2018=False,
-                                                          enhanced2023=False,
-                                                          enhanced2022=False,
-                                                          enhanced2021=False,
-                                                          enhanced2020=False,
-                                                          enhanced2019=False,
-                                                          enhanced2018=False))
-    #basic applied
-    currLib.basicApplied = True
-    print(currLib.basicApplied)
-    #tracking years applied to basic 
-    print(row['Fiscal Year'])
-    print(type(row['Fiscal Year']))
-    print(type(currLib.basicYears))
-    currLib.basicYears = currLib.basicYears + row['Fiscal Year']
-    #tracking specific years
-    if('2021' in currLib.basicYears):
-        currLib.basic2021 = True
-        print(True)
-    assert astuple(currLib)
-    print(currLib)
+
 #basic[x][0] = name
 #basic[x][1] = year
 #basic[x][2] = city
