@@ -151,12 +151,22 @@ def establishClass(basic, enhanced):
     return data
 
 def organize(tribes):
+    totalTribes = {}
     highTribes = {}
     lowTribes = {}
     for t in tribes:
-        if(not (t.basic2023 or t.basic2022 or t.basic2021 or t.basic2020 or t.basic2019 or t.basic2018
-                or t.enhanced2023 or t.enhanced2022 or t.enhanced2021 or t.enhanced2020 or t.enhanced2019 or t.enhanced2018)):
-            lowTribes[t.name] = t
+        if(not (tribes[t].basic2023 or tribes[t].basic2022 or tribes[t].basic2021 or tribes[t].basic2020 or tribes[t].basic2019 or tribes[t].basic2018
+                or tribes[t].enhanced2023 or tribes[t].enhanced2022 or tribes[t].enhanced2021 or tribes[t].enhanced2020 or tribes[t].enhanced2019 or tribes[t].enhanced2018)):
+            lowTribes[t] = tribes[t]
+        elif(tribes[t].basic2023 or tribes[t].basic2022 or tribes[t].basic2021 or tribes[t].basic2020 or tribes[t].basic2019 or tribes[t].basic2018
+                or tribes[t].enhanced2023 or tribes[t].enhanced2022 or tribes[t].enhanced2021 or tribes[t].enhanced2020 or tribes[t].enhanced2019 or tribes[t].enhanced2018):
+            highTribes[t] = tribes[t]
+    s = []
+    for t in highTribes:
+        if(highTribes[t].basic2023):
+            yearList.append(highTribes[t])
+    
+    return totalTribes
 
 tribes = {}
 
@@ -168,6 +178,8 @@ print(enhanced)
 
 tribes = establishClass(basic, enhanced)
 print(len(tribes))
+
+tribes = organize(tribes)
 
 """ 
 old sorting method
