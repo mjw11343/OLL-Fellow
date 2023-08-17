@@ -23,7 +23,9 @@ class Tribe():
     enhanced2020: bool
     enhanced2019: bool
     enhanced2018: bool
-
+    numBasicYearsApplied: int
+    numEnhancedYearsApplied: int
+    canApplyEnhanced: bool
 
 def export_to_csv(data, file_name):
     """
@@ -86,7 +88,10 @@ def establishClass(basic, enhanced):
                                                           enhanced2021=False,
                                                           enhanced2020=False,
                                                           enhanced2019=False,
-                                                          enhanced2018=False))
+                                                          enhanced2018=False,
+                                                          numBasicYearsApplied=0,
+                                                          numEnhancedYearsApplied=0,
+                                                          canApplyEnhanced=False))
         #tracking years applied to basic 
         if(row['Fiscal Year'] not in currLib.basicYears):
             currLib.basicYears = currLib.basicYears + ', ' + row['Fiscal Year']
@@ -125,7 +130,10 @@ def establishClass(basic, enhanced):
                                                           enhanced2021=False,
                                                           enhanced2020=False,
                                                           enhanced2019=False,
-                                                          enhanced2018=False))
+                                                          enhanced2018=False,
+                                                          numBasicYearsApplied=0,
+                                                          numEnhancedYearsApplied=0,
+                                                          canApplyEnhanced=False))
         #tracking years applied to basic 
         if("" == currLib.enhancedYears):
             currLib.enhancedYears = row['Fiscal Year']
@@ -148,25 +156,31 @@ def establishClass(basic, enhanced):
         data[currLib.name] = currLib
         #debug
         print(data[currLib.name])
+    
+    for tribe in data:
+        data[tribe].numBasicYearsApplied = len(data[tribe].basicYears.split())
+        data[tribe].numEnhancedYearsApplied = len(data[tribe].enhancedYears.split())
+        if(not data[tribe].enhanced2022):
+            data[tribe].canApplyEnhanced = True
     return data
 
 def organize(tribes):
-    totalTribes = {}
-    highTribes = {}
-    lowTribes = {}
-    for t in tribes:
-        if(not (tribes[t].basic2023 or tribes[t].basic2022 or tribes[t].basic2021 or tribes[t].basic2020 or tribes[t].basic2019 or tribes[t].basic2018
-                or tribes[t].enhanced2023 or tribes[t].enhanced2022 or tribes[t].enhanced2021 or tribes[t].enhanced2020 or tribes[t].enhanced2019 or tribes[t].enhanced2018)):
-            lowTribes[t] = tribes[t]
-        elif(tribes[t].basic2023 or tribes[t].basic2022 or tribes[t].basic2021 or tribes[t].basic2020 or tribes[t].basic2019 or tribes[t].basic2018
-                or tribes[t].enhanced2023 or tribes[t].enhanced2022 or tribes[t].enhanced2021 or tribes[t].enhanced2020 or tribes[t].enhanced2019 or tribes[t].enhanced2018):
-            highTribes[t] = tribes[t]
-    s = []
-    for t in highTribes:
-        if(highTribes[t].basic2023):
-            yearList.append(highTribes[t])
-    
-    return totalTribes
+    #make a list of tuples, each tribe is one row
+    list = []
+    for tribe in tribes:
+        list.append(astuple(tribes[tribe]))
+    #sort the tribes by basic2022, then basic2021, then basic2020, then whether they applied to 
+    list = sorted(sorted(sorted(sorted(sorted(sorted(sorted(sorted(sorted(sorted(list, key=lambda tribe: tribe[6], reverse=True), 
+                                       key=lambda tribe: tribe[7], reverse=True), 
+                                       key=lambda tribe: tribe[8], reverse=True), 
+                                       key=lambda tribe: tribe[9], reverse=True), 
+                                       key=lambda tribe: tribe[10], reverse=True), 
+                                       key=lambda tribe: tribe[12], reverse=True), 
+                                       key=lambda tribe: tribe[13], reverse=True), 
+                                       key=lambda tribe: tribe[14], reverse=True), 
+                                       key=lambda tribe: tribe[15], reverse=True), 
+                                       key=lambda tribe: tribe[16], reverse=True)
+    return list
 
 tribes = {}
 
@@ -181,19 +195,5 @@ print(len(tribes))
 
 tribes = organize(tribes)
 
-""" 
-old sorting method
-
-z = 0
-while(z < len(theList)):
-    if(theList[z][5]):
-        theListNew.append(theList[z])
-    z = z + 1
-z = 0
-while(z < len(theList)):
-    if(not theList[z][5]):
-        theListNew.append(theList[z])
-    z = z + 1
-
-export_to_csv(theListNew, 'fullData.csv')
-"""
+tribes.insert(0, ('Tribe Name', 'Applied to Basic Grant?', 'Years applied to Basic Grant', 'Applied to Enhancement Grant?', 'Years applied to Enhancement Grant', '2023 Basic Grant', '2022 Basic Grant', '2021 Basic Grant', '2020 Basic Grant', '2019 Basic Grant', '2018 Basic Grant', '2023 Enhancement Grant', '2022 Enhancement Grant', '2021 Enhancement Grant', '2020 Enhancement Grant', '2019 Enhancement Grant', '2018 Enhancement Grant', '# of Applications to Basic Grant', '# of Applications to Enhancement Grant', 'Can Apply in 2023'))
+export_to_csv(tribes, "sorted_tribes.csv")
