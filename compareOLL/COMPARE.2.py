@@ -170,16 +170,7 @@ def organize(tribes):
     for tribe in tribes:
         list.append(astuple(tribes[tribe]))
     #sort the tribes by basic2022, then basic2021, then basic2020, then whether they applied to 
-    list = sorted(sorted(sorted(sorted(sorted(sorted(sorted(sorted(sorted(sorted(list, key=lambda tribe: tribe[6], reverse=True), 
-                                       key=lambda tribe: tribe[7], reverse=True), 
-                                       key=lambda tribe: tribe[8], reverse=True), 
-                                       key=lambda tribe: tribe[9], reverse=True), 
-                                       key=lambda tribe: tribe[10], reverse=True), 
-                                       key=lambda tribe: tribe[12], reverse=True), 
-                                       key=lambda tribe: tribe[13], reverse=True), 
-                                       key=lambda tribe: tribe[14], reverse=True), 
-                                       key=lambda tribe: tribe[15], reverse=True), 
-                                       key=lambda tribe: tribe[16], reverse=True)
+    list = sorted(list, key=lambda tribe: (tribe[19], tribe[2]), reverse=True)
     return list
 
 tribes = {}

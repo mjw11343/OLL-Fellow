@@ -1,422 +1,402 @@
 ﻿Tribe Name,Applied to Basic Grant?,Years applied to Basic Grant,Applied to Enhancement Grant?,Years applied to Enhancement Grant,2023 Basic Grant,2022 Basic Grant,2021 Basic Grant,2020 Basic Grant,2019 Basic Grant,2018 Basic Grant,2023 Enhancement Grant,2022 Enhancement Grant,2021 Enhancement Grant,2020 Enhancement Grant,2019 Enhancement Grant,2018 Enhancement Grant,# of Applications to Basic Grant,# of Applications to Enhancement Grant,Can Apply in 2023
-Chippewa Cree Tribe,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2003, 2002, 2001, 1999, 1998",False,"2022, 2021, 2020, 2019, 2018, 2017, 2014, 2012, 2009, 2007, 2002, 1999",False,True,True,True,True,True,False,True,True,True,True,True,23,12,False
-Makah Indian Tribe,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001",False,"2022, 2020, 2018, 2016, 2014, 2013, 2010, 2009, 2008, 2005",False,True,True,True,True,True,False,True,False,True,False,True,22,10,False
-Fort Sill Apache Tribe,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 1999, 1998",False,"2022, 2020, 2018",False,True,True,True,True,True,False,True,False,True,False,True,17,3,False
-Santa Clara Pueblo,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2022, 2020, 2018, 2015, 2013, 2011, 2009, 2008, 2006, 2004, 2002, 2001, 1999",False,False,True,True,True,True,False,True,False,True,False,True,23,13,False
-Huna Totem Corporation,True,"2022, 2021, 2020, 2018, 2017, 2016, 2013, 2012, 2011, 2009, 2008, 2004, 2003, 2002",False,"2022, 2020, 2018, 2016",False,True,True,True,False,True,False,True,False,True,False,True,14,4,False
-Eastern Shawnee Tribe of Oklahoma,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999, 1998",False,"2020, 2018",False,True,True,True,True,True,False,False,False,True,False,True,23,2,True
-Ak-Chin Indian Community,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010",False,"2020, 2018",False,True,True,True,True,True,False,False,False,True,False,True,13,2,True
-Menominee Indian Tribe of Wisconsin,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2020, 2018, 2016, 2014, 2010",False,False,True,True,True,True,False,False,False,True,False,True,23,5,True
-Catawba Indian Nation,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2009, 2003, 1999",False,"2020, 2018",False,False,True,True,True,True,False,False,False,True,False,True,12,2,True
-Quapaw Nation,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2006, 2004, 2002, 1999",False,"2021, 2018, 2016, 2013, 2011",False,True,True,True,True,True,False,False,True,False,False,True,19,5,True
-Confederated Tribes and Bands of the Yakama Nation,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2010, 2009, 2008, 2007, 2005, 2002, 2001, 1999, 1998",False,"2021, 2018, 2015",False,True,True,True,True,True,False,False,True,False,False,True,20,3,True
-Little Traverse Bay Bands of Odawa Indians,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2001, 1999, 1998",False,"2021, 2018, 2016",False,True,True,True,True,True,False,False,True,False,False,True,22,3,True
-Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2021, 2018, 2016, 2014, 2011, 2009, 2007, 2005, 2003, 2002, 1999",False,True,True,True,True,True,False,False,True,False,False,True,24,11,True
-Oneida Nation,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2005, 2004, 2003, 2002, 1999, 1998",False,"2021, 2018, 2014, 2010, 1999",False,False,True,True,True,True,False,False,True,False,False,True,21,5,True
-Pyramid Lake Paiute Tribe,True,"2021, 2018, 2017, 2016, 2015, 2014, 2013, 2011, 2008, 2007, 2006, 2004, 2003, 2002, 2001, 1999, 1998",False,"2021, 2018",False,False,True,False,False,True,False,False,True,False,False,True,17,2,True
-Organized Village of Kake,True,"2022, 2021, 2020, 2019, 2018, 2016, 2013, 2012",False,"2022, 2018",False,True,True,True,True,True,False,True,False,False,False,True,8,2,False
-Pauma Band of Mission Indians,True,"2021, 2019, 2018, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999, 1998",False,"2022, 2018, 2005, 2003",False,False,True,False,True,True,False,True,False,False,False,True,20,4,False
-Cher-Ae Heights Indian Community of the Trinidad Rancheria,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2003, 2002, 2001, 1999",False,"2018, 2013",False,True,True,True,True,True,False,False,False,False,False,True,21,2,True
-Crow Tribe of Indians,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2018, 2015, 2011, 2006, 1999",False,True,True,True,True,True,False,False,False,False,False,True,24,5,True
-Spirit Lake Nation,True,"2020, 2019, 2018, 2016, 2015, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2018, 2015, 2010, 2007, 1999",False,False,False,True,True,True,False,False,False,False,False,True,20,5,True
-Penobscot Indian Nation,True,"2021, 2019, 2018, 2017, 2015, 2014, 2013, 2010, 2007, 2006, 2005, 2003, 2002, 2001, 1998",False,2018,False,False,True,False,True,True,False,False,False,False,False,True,15,1,True
-Chilkat Indian Village,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2002",False,"2021, 2019, 2017, 2015, 2013, 2011, 2009, 2007, 2005",False,True,True,True,True,True,False,False,True,False,True,False,20,9,True
-Wyandotte Nation,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2021, 2019, 2017, 2014",False,True,True,True,True,True,False,False,True,False,True,False,24,4,True
-Karuk Tribe,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2005, 2004, 2003, 2002, 2001, 1999",False,"2022, 2019, 2016, 2012, 2010",False,True,True,True,True,True,False,True,False,False,True,False,22,5,False
-Choctaw Nation of Oklahoma,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999",False,"2022, 2019",False,True,True,True,True,True,False,True,False,False,True,False,22,2,False
-Yerington Paiute Tribe,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999",False,"2022, 2019, 2008",False,False,True,True,True,True,False,True,False,False,True,False,21,3,False
-Grand Traverse Band of Ottawa and Chippewa Indians,True,"2022, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2022, 2019, 2017, 2005",False,True,False,False,True,True,False,True,False,False,True,False,22,4,False
-Citizen Potawatomi Nation,True,"2022, 2021, 2020, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2002, 2001, 1999, 1998",False,"2022, 2019",False,True,True,True,True,False,False,True,False,False,True,False,22,2,False
-Absentee Shawnee Tribe of Oklahoma,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2007, 2006, 2004, 2003, 2002, 1999",False,2019,False,True,True,True,True,True,False,False,False,False,True,False,19,1,True
 Jamestown S'Klallam Tribe,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2019, 2011, 2009",False,True,True,True,True,True,False,False,False,False,True,False,24,3,True
-Muscogee Creek Nation,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2006, 2005, 2004, 2002, 2001, 1998",False,"2019, 2004",False,True,True,True,True,True,False,False,False,False,True,False,21,2,True
-Saginaw Chippewa Indian Tribe,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2002, 2001, 1999, 1998",False,"2019, 2017, 2014, 2011, 2005, 2002",False,True,True,True,True,True,False,False,False,False,True,False,22,6,True
-Pueblo of Pojoaque,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1998",False,"2019, 2009, 2007",False,True,True,True,True,True,False,False,False,False,True,False,23,3,True
-Winnebago Tribe of Nebraska,True,"2022, 2021, 2020, 2019, 2018, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999, 1998",False,"2019, 2009, 2006, 2003, 1999",False,True,True,True,True,True,False,False,False,False,True,False,22,5,True
-Hydaburg Cooperative Association,True,"2021, 2020, 2019, 2018, 2017, 2016, 2007, 2006",False,"2019, 2017",False,False,True,True,True,True,False,False,False,False,True,False,8,2,True
-Fort Belknap Indian Community,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2002, 2001, 1999, 1998",False,"2019, 2016, 2012, 2009, 2008, 2006, 2004, 2002, 2001",False,False,True,True,True,True,False,False,False,False,True,False,22,9,True
-Pueblo of Jemez,True,"2020, 2019, 2018, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2019, 2015, 2012, 2010, 2008, 2006, 2004, 2002, 2001, 1999",False,False,False,True,True,True,False,False,False,False,True,False,21,10,True
-Tolowa Dee-ni Nation,True,"2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2004, 2003, 2002, 1999, 1998",False,2019,False,False,False,True,True,True,False,False,False,False,True,False,20,1,True
-Tuolumne Band of Me-Wuk Indians,True,"2020, 2019, 2018, 2017, 2016, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2002, 1999, 1998",False,"2019, 2008",False,False,False,True,True,True,False,False,False,False,True,False,16,2,True
-Pueblo of Isleta,True,"2021, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,2019,False,False,True,False,True,True,False,False,False,False,True,False,20,1,True
-Enterprise Rancheria of Maidu Indians,True,"2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2007, 2004, 2003, 2002, 2001, 1999, 1998",False,2019,False,False,False,False,True,True,False,False,False,False,True,False,18,1,True
-Keweenaw Bay Indian Community,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2022, 2020, 2017, 2015, 2012, 2010, 2008, 2003, 2002",False,True,True,True,True,True,False,True,False,True,False,False,24,9,False
-United Keetoowah Band of Cherokee Indians,True,"2022, 2021, 2020, 2019, 2018, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2004, 1999, 1998",False,"2022, 2020",False,True,True,True,True,True,False,True,False,True,False,False,16,2,False
-San Pasqual Band of Mission Indians,True,"2022, 2020, 2016, 2015, 2014, 2013, 2012, 2010",False,"2022, 2020",False,True,False,True,False,False,False,True,False,True,False,False,8,2,False
-Gun Lake Tribe,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010",False,2020,False,True,True,True,True,True,False,False,False,True,False,False,13,1,True
-Koniag Inc.,True,"2022, 2021, 2020, 2019, 2018",False,2020,False,True,True,True,True,True,False,False,False,True,False,False,5,1,True
-Tohono O'odham Nation,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2007, 2006, 2005, 2004, 2003, 2002, 2001",False,"2020, 2006, 2003",False,True,True,True,True,True,False,False,False,True,False,False,18,3,True
-Mohegan Tribe,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011",False,2020,False,False,True,True,True,True,False,False,False,True,False,False,11,1,True
-Central Council of Tlingit and Haida Indian Tribes,True,"2021, 2020, 2019, 2018, 2002, 2001, 1999, 1998",False,2020,False,False,True,True,True,True,False,False,False,True,False,False,8,1,True
-Pokagon Band of Potawatomi,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2006, 2005, 1999, 1998",False,"2020, 2012",False,False,True,True,True,True,False,False,False,True,False,False,18,2,True
-Blackfeet Tribe,True,"2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2010, 2008, 2007, 2006, 2005, 2004, 2002, 2001, 1999",False,"2020, 2017, 2006",False,False,False,True,True,True,False,False,False,True,False,False,18,3,True
-Igiugig Village,True,"2022, 2021, 2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2020, 2010, 2002",False,True,True,True,False,True,False,False,False,True,False,False,22,3,True
-Sealaska Corporation,True,"2021, 2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999",False,"2020, 2015, 2011, 2008, 2007, 2005, 2003, 2002, 1999",False,False,True,True,False,True,False,False,False,True,False,False,20,9,True
-San Carlos Apache Tribe,True,"2022, 2021, 2020, 2013, 2012, 2006, 2004, 2002",False,2020,False,True,True,True,False,False,False,False,False,True,False,False,8,1,True
-Shoshone-Bannock Tribes,True,"2021, 2020, 2002, 2001, 1999",False,2020,False,False,True,True,False,False,False,False,False,True,False,False,5,1,True
-Pawnee Nation of Oklahoma,True,"2021, 2015, 2014, 2013, 2011, 2010, 2009, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2022, 2021",False,False,True,False,False,False,False,True,True,False,False,False,16,2,False
-Aleut Community of St. Paul Island,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2002, 2001, 1999",False,"2021, 2012, 2002",False,True,True,True,True,True,False,False,True,False,False,False,18,3,True
-Red Cliff Band of Lake Superior Chippewa,True,"2022, 2021, 2020, 2019, 2018, 2015, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2021, 2005, 2004, 1999",False,True,True,True,True,True,False,False,True,False,False,False,13,4,True
-Oneida Indian Nation,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014",False,2021,False,True,True,True,True,True,False,False,True,False,False,False,9,1,True
-Bishop Indian Tribal Council,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2004, 2002",False,"2021, 2017, 2015",False,False,True,True,True,True,False,False,True,False,False,False,18,3,True
-Stockbridge-Munsee Community,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005",False,"2021, 2017, 2013",False,False,True,True,True,True,False,False,True,False,False,False,17,3,True
-Turtle Mountain Band of Chippewa Indians,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2021, 2017",False,False,True,True,True,True,False,False,True,False,False,False,20,2,True
-Forest County Potawatomi Community,True,"2022, 2021, 2019, 2018, 2016",False,2021,False,True,True,False,True,True,False,False,True,False,False,False,5,1,True
-Delaware Nation,True,"2022, 2021, 2019, 2018, 2017, 2013, 2012, 2011, 2009, 2006, 2002, 2001, 1998",False,2021,False,True,True,False,True,True,False,False,True,False,False,False,13,1,True
-Red Lake Band of Chippewa Indians,True,"2022, 2021, 2020, 2018, 2016, 2015, 2013, 2006, 2005, 2004, 2003, 2002, 1998",False,"2021, 2016",False,True,True,True,False,True,False,False,True,False,False,False,13,2,True
-Hoopa Valley Tribe,True,"2022, 2021, 2020, 2019, 2017, 2016, 2015, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2001, 1999, 1998",False,"2021, 2004, 2001",False,True,True,True,True,False,False,False,True,False,False,False,20,3,True
-Miami Tribe of Oklahoma,True,"2021, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2021, 2008, 2006, 2004, 2002, 2001",False,False,True,False,True,False,False,False,True,False,False,False,19,6,True
-Sisseton-Wahpeton Oyate,True,"2021, 2020, 2010, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,2021,False,False,True,True,False,False,False,False,True,False,False,False,12,1,True
-Prairie Band Potawatomi Nation,True,"2021, 2010, 2009, 2008, 2007, 2005, 2004, 2003, 2002",False,2021,False,False,True,False,False,False,False,False,True,False,False,False,9,1,True
-Pinoleville Pomo Nation,True,"2021, 2017, 2016, 2015, 2012, 2011, 2010, 2008, 2007, 2005, 2004, 2003, 2002, 2001, 1998",False,2021,False,False,True,False,False,False,False,False,True,False,False,False,15,1,True
-Yavapai-Prescott Indian Tribe,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,2022,False,False,True,True,True,True,False,True,False,False,False,False,23,1,False
-Port Graham Village Council,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 1998",False,"2022, 2012",False,False,True,True,True,True,False,True,False,False,False,False,15,2,False
-Barona Band of Mission Indians,True,"2021, 2020, 2019, 2018, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,2022,False,False,True,True,True,True,False,True,False,False,False,False,22,1,False
-Confederated Tribes of the Grand Ronde Community of Oregon,True,"2021, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2003, 2002, 1998",False,"2022, 2003",False,False,True,False,True,True,False,True,False,False,False,False,19,2,False
-Fairbanks Native Association,True,"2022, 2021, 2020, 2019",False,2022,False,True,True,True,True,False,False,True,False,False,False,False,4,1,False
-Tunica-Biloxi Tribe of Louisiana,True,"2020, 2017, 2016, 2015, 2014, 2013, 2012, 2008, 2007, 2006, 2005, 2003, 2002, 2001, 1999, 1998",False,2022,False,False,False,True,False,False,False,True,False,False,False,False,16,1,False
-Northern Cheyenne Tribe,True,"2020, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2022, 1999",False,False,False,True,False,False,False,True,False,False,False,False,19,2,False
-Eastern Band of Cherokee Indians,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999",False,"2002, 1999",False,True,True,True,True,True,False,False,False,False,False,False,22,2,True
-Petersburg Indian Association,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005",False,2011,False,True,True,True,True,True,False,False,False,False,False,False,18,1,True
-Bay Mills Indian Community,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999",False,"2015, 2010",False,True,True,True,True,True,False,False,False,False,False,False,23,2,True
-Craig Tribal Association,True,"2022, 2021, 2020, 2019, 2018, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2004",False,,False,True,True,True,True,True,False,False,False,False,False,False,17,0,True
-Swinomish Indian Tribal Community,True,"2022, 2021, 2020, 2019, 2018, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,True,True,True,True,True,False,False,False,False,False,False,19,0,True
-Native Village of Port Lions,True,"2022, 2021, 2020, 2019, 2018, 2017, 2014, 2013, 2012, 2010, 2007, 2004, 2002, 1999, 1998",False,,False,True,True,True,True,True,False,False,False,False,False,False,15,0,True
-Bear River Band of Rohnerville Rancheria,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2001, 1999",False,"2016, 2012, 2008",False,True,True,True,True,True,False,False,False,False,False,False,22,3,True
-Fort Peck Assiniboine and Sioux Tribes,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2002, 2001, 1999, 1998",False,"2016, 2012, 2009, 2005, 2002, 2001",False,True,True,True,True,True,False,False,False,False,False,False,23,6,True
-Lac du Flambeau Band of Lake Superior Chippewa Indians,True,"2022, 2021, 2020, 2019, 2018, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,True,True,True,True,True,False,False,False,False,False,False,21,0,True
-Native Village of Chignik Lagoon,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,True,True,True,True,True,False,False,False,False,False,False,21,0,True
-Sault Sainte Marie Tribe of Chippewa Indians,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2006, 2005, 2003, 2002, 2001, 1999, 1998",False,,False,True,True,True,True,True,False,False,False,False,False,False,22,0,True
-Confederated Salish and Kootenai Tribes,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2003, 2002, 2001, 1999",False,"2012, 2006, 2002",False,True,True,True,True,True,False,False,False,False,False,False,22,3,True
-Native Village of Cantwell,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999",False,,False,True,True,True,True,True,False,False,False,False,False,False,23,0,True
 Samish Indian Nation,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,True,True,True,True,True,False,False,False,False,False,False,24,0,True
-Arctic Slope Regional Corporation,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999",False,"2007, 2006, 2004, 2002, 2001, 1999",False,True,True,True,True,True,False,False,False,False,False,False,23,6,True
-Nondalton Tribal Council,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2005, 2004, 2003, 2002, 2001, 1999",False,,False,True,True,True,True,True,False,False,False,False,False,False,16,0,True
+Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2021, 2018, 2016, 2014, 2011, 2009, 2007, 2005, 2003, 2002, 1999",False,True,True,True,True,True,False,False,True,False,False,True,24,11,True
 Kaw Nation,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2017, 2010",False,True,True,True,True,True,False,False,False,False,False,False,24,2,True
-Kodiak Area Native Association,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015",False,,False,True,True,True,True,True,False,False,False,False,False,False,8,0,True
-Big Pine Paiute Tribe,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2009, 2008, 2005, 2004, 2002, 2001, 1999",False,,False,True,True,True,True,True,False,False,False,False,False,False,18,0,True
+Crow Tribe of Indians,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2018, 2015, 2011, 2006, 1999",False,True,True,True,True,True,False,False,False,False,False,True,24,5,True
+Wyandotte Nation,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2021, 2019, 2017, 2014",False,True,True,True,True,True,False,False,True,False,True,False,24,4,True
+Bay Mills Indian Community,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999",False,"2015, 2010",False,True,True,True,True,True,False,False,False,False,False,False,23,2,True
+Native Village of Cantwell,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999",False,,False,True,True,True,True,True,False,False,False,False,False,False,23,0,True
+Arctic Slope Regional Corporation,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999",False,"2007, 2006, 2004, 2002, 2001, 1999",False,True,True,True,True,True,False,False,False,False,False,False,23,6,True
+Pueblo of Pojoaque,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1998",False,"2019, 2009, 2007",False,True,True,True,True,True,False,False,False,False,True,False,23,3,True
+Eastern Shawnee Tribe of Oklahoma,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999, 1998",False,"2020, 2018",False,True,True,True,True,True,False,False,False,True,False,True,23,2,True
 Lower Elwha Klallam Tribe,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999, 1998",False,2007,False,True,True,True,True,True,False,False,False,False,False,False,23,1,True
 Chilkoot Indian Association,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002",False,"2014, 2011, 2009, 2007, 2005, 2003, 2002",False,True,True,True,True,True,False,False,False,False,False,False,21,7,True
-Aleutian Pribilof Islands Association Inc.,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014",False,2017,False,True,True,True,True,True,False,False,False,False,False,False,9,1,True
-Oglala Sioux Tribe,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999",False,"2009, 2002, 2001",False,True,True,True,True,True,False,False,False,False,False,False,22,3,True
-Hopi Tribe,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2003, 2002, 2001, 1999, 1998",False,"2010, 2007",False,True,True,True,True,True,False,False,False,False,False,False,21,2,True
-Ohkay Owingeh Tribal Council,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2010, 2009, 2007, 2006, 2003, 2001, 1998",False,"2010, 2003",False,True,True,True,True,True,False,False,False,False,False,False,18,2,True
-Village of Aniak,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,True,True,True,True,True,False,False,False,False,False,False,22,0,True
-Wrangell Cooperative Association,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005",False,,False,True,True,True,True,True,False,False,False,False,False,False,18,0,True
-Morongo Band of Mission Indians,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2001",False,,False,True,True,True,True,True,False,False,False,False,False,False,12,0,True
-Lac Vieux Desert Band of Lake Superior Chippewa Indians,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2007, 2006, 2005, 2004, 2002, 2001, 1999, 1998",False,,False,True,True,True,True,True,False,False,False,False,False,False,21,0,True
-Native Village of Eyak,True,"2022, 2021, 2020, 2019, 2018, 2016, 2015, 2014, 2013, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1998",False,,False,True,True,True,True,True,False,False,False,False,False,False,21,0,True
+Bear River Band of Rohnerville Rancheria,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2001, 1999",False,"2016, 2012, 2008",False,True,True,True,True,True,False,False,False,False,False,False,22,3,True
+Fort Peck Assiniboine and Sioux Tribes,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2002, 2001, 1999, 1998",False,"2016, 2012, 2009, 2005, 2002, 2001",False,True,True,True,True,True,False,False,False,False,False,False,23,6,True
 Chitimacha Tribe of Louisiana,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2002, 2001, 1999",False,,False,True,True,True,True,True,False,False,False,False,False,False,22,0,True
-Modoc Nation,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2003, 2002, 2001, 1999, 1998",False,,False,True,True,True,True,True,False,False,False,False,False,False,23,0,True
-Federated Indians of Graton Rancheria,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004",False,"2017, 2014",False,True,True,True,True,True,False,False,False,False,False,False,17,2,True
-Ninilchik Village,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,True,True,True,True,True,False,False,False,False,False,False,23,0,True
-Seneca Nation of Indians,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2011, 2009, 2008, 2003, 1998",False,,False,True,True,True,True,True,False,False,False,False,False,False,15,0,True
 Mechoopda Indian Tribe of Chico Rancheria,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2002, 2001, 1999",False,,False,True,True,True,True,True,False,False,False,False,False,False,22,0,True
-Pueblo of Santa Ana,True,"2021, 2020, 2019, 2018, 2017, 2016, 2008, 2007, 2006, 2005, 2004, 2002, 1999, 1998",False,,False,False,True,True,True,True,False,False,False,False,False,False,14,0,True
-Ounalashka Corporation,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,True,True,True,True,False,False,False,False,False,False,23,0,True
-Nome Eskimo Community,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012",False,,False,False,True,True,True,True,False,False,False,False,False,False,10,0,True
-Peoria Tribe of Indians of Oklahoma,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999, 1998",False,,False,False,True,True,True,True,False,False,False,False,False,False,22,0,True
-Pueblo of Tesuque,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2008, 2007, 2006, 2005",False,,False,False,True,True,True,True,False,False,False,False,False,False,14,0,True
-Shoalwater Bay Indian Tribe,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,True,True,True,True,False,False,False,False,False,False,23,0,True
-Nenana Native Association,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,1999,False,False,True,True,True,True,False,False,False,False,False,False,22,1,True
-Lummi Nation,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2010, 2006, 2004, 1999",False,False,True,True,True,True,False,False,False,False,False,False,22,4,True
-Hoh Tribe,True,"2021, 2020, 2019, 2018, 2016, 2015, 2014, 2012, 2009",False,"2016, 2014",False,False,True,True,True,True,False,False,False,False,False,False,9,2,True
-Ute Mountain Ute Tribe,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2006, 2002, 1999, 1998",False,2009,False,False,True,True,True,True,False,False,False,False,False,False,18,1,True
-Pueblo of San Felipe,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2003, 2002, 2001, 1999, 1998",False,,False,False,True,True,True,True,False,False,False,False,False,False,12,0,True
-Alabama-Coushatta Tribe of Texas,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999",False,,False,False,True,True,True,True,False,False,False,False,False,False,22,0,True
-Pueblo of Laguna,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,True,True,True,True,False,False,False,False,False,False,23,0,True
-Susanville Indian Rancheria,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2002, 2001",False,,False,False,True,True,True,True,False,False,False,False,False,False,12,0,True
-Seneca-Cayuga Tribe of Oklahoma,True,"2021, 2020, 2019, 2018, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2007, 2006, 2005, 2003, 2002, 2001, 1999, 1998",False,,False,False,True,True,True,True,False,False,False,False,False,False,19,0,True
-Hannahville Indian Community,True,"2021, 2020, 2019, 2018, 2017, 2016, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,True,True,True,True,False,False,False,False,False,False,21,0,True
-Ponca Tribe of Nebraska,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,True,True,True,True,False,False,False,False,False,False,22,0,True
-Elk Valley Rancheria,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1998",False,2002,False,False,True,True,True,True,False,False,False,False,False,False,22,1,True
-Pueblo of San Ildefonso,True,"2021, 2020, 2019, 2018, 2017, 2016, 2011, 2010, 2009",False,,False,False,True,True,True,True,False,False,False,False,False,False,9,0,True
-Curyung Tribal Council,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999",False,,False,False,True,True,True,True,False,False,False,False,False,False,22,0,True
-Pedro Bay Village Council,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2008, 2007, 2006, 2005, 2002, 2001, 1999, 1998",False,,False,False,True,True,True,True,False,False,False,False,False,False,19,0,True
-Eastern Shoshone Tribe,True,"2021, 2020, 2019, 2018, 2017, 2016, 2014, 2013, 2012, 2010, 2009, 2008, 2006, 2003",False,,False,False,True,True,True,True,False,False,False,False,False,False,14,0,True
-Yankton Sioux Tribe,True,"2021, 2020, 2019, 2018, 2017, 2016, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2002, 1998",False,,False,False,True,True,True,True,False,False,False,False,False,False,18,0,True
-Cedarville Rancheria,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2010, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999",False,,False,False,True,True,True,True,False,False,False,False,False,False,19,0,True
-Fort McDowell Yavapai Nation,True,"2022, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2002, 1999",False,,False,True,False,True,True,True,False,False,False,False,False,False,20,0,True
-Gulkana Village Council,True,"2022, 2020, 2019, 2018, 2008, 2007, 2005, 2004, 2002, 2001, 1999",False,,False,True,False,True,True,True,False,False,False,False,False,False,11,0,True
-Redwood Valley Tribe,True,"2022, 2020, 2019, 2018, 2017, 2016, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999, 1998",False,,False,True,False,True,True,True,False,False,False,False,False,False,21,0,True
-Tonkawa Tribe of Oklahoma,True,"2022, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2005",False,,False,True,False,True,True,True,False,False,False,False,False,False,13,0,True
-Ottawa Tribe of Oklahoma,True,"2022, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999, 1998",False,,False,True,False,True,True,True,False,False,False,False,False,False,22,0,True
-Cahto Tribe of Laytonville Rancheria,True,"2022, 2020, 2019, 2018, 2016, 2007, 1999",False,,False,True,False,True,True,True,False,False,False,False,False,False,7,0,True
-Fallon Paiute-Shoshone Tribe,True,"2022, 2020, 2019, 2018, 2017, 2016, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2006, 2004, 2002",False,"2014, 2006",False,True,False,True,True,True,False,False,False,False,False,False,16,2,True
-Organized Village of Kasaan (IRA),True,"2020, 2019, 2018, 2017, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2003",False,"2012, 2009, 2007",False,False,False,True,True,True,False,False,False,False,False,False,16,3,True
-Poarch Band of Creek Indians,True,"2020, 2019, 2018, 2017, 2016, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,2006,False,False,False,True,True,True,False,False,False,False,False,False,21,1,True
-Coushatta Tribe of Louisiana,True,"2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2010, 2008, 2007",False,,False,False,False,True,True,True,False,False,False,False,False,False,12,0,True
-Seldovia Village Tribe,True,"2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012",False,2013,False,False,False,True,True,True,False,False,False,False,False,False,9,1,True
-Cachil Dehe Band of Wintun Indians,True,"2020, 2019, 2018, 2016, 2015, 2014, 2013, 2012, 2010, 2009, 2007",False,,False,False,False,True,True,True,False,False,False,False,False,False,11,0,True
+Chilkat Indian Village,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2002",False,"2021, 2019, 2017, 2015, 2013, 2011, 2009, 2007, 2005",False,True,True,True,True,True,False,False,True,False,True,False,20,9,True
+Little Traverse Bay Bands of Odawa Indians,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2001, 1999, 1998",False,"2021, 2018, 2016",False,True,True,True,True,True,False,False,True,False,False,True,22,3,True
+Modoc Nation,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2003, 2002, 2001, 1999, 1998",False,,False,True,True,True,True,True,False,False,False,False,False,False,23,0,True
+Confederated Salish and Kootenai Tribes,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2003, 2002, 2001, 1999",False,"2012, 2006, 2002",False,True,True,True,True,True,False,False,False,False,False,False,22,3,True
+Saginaw Chippewa Indian Tribe,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2002, 2001, 1999, 1998",False,"2019, 2017, 2014, 2011, 2005, 2002",False,True,True,True,True,True,False,False,False,False,True,False,22,6,True
+Petersburg Indian Association,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005",False,2011,False,True,True,True,True,True,False,False,False,False,False,False,18,1,True
+Wrangell Cooperative Association,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005",False,,False,True,True,True,True,True,False,False,False,False,False,False,18,0,True
+Cher-Ae Heights Indian Community of the Trinidad Rancheria,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2003, 2002, 2001, 1999",False,"2018, 2013",False,True,True,True,True,True,False,False,False,False,False,True,21,2,True
+Hopi Tribe,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2003, 2002, 2001, 1999, 1998",False,"2010, 2007",False,True,True,True,True,True,False,False,False,False,False,False,21,2,True
+Muscogee Creek Nation,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2006, 2005, 2004, 2002, 2001, 1998",False,"2019, 2004",False,True,True,True,True,True,False,False,False,False,True,False,21,2,True
+Sault Sainte Marie Tribe of Chippewa Indians,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2006, 2005, 2003, 2002, 2001, 1999, 1998",False,,False,True,True,True,True,True,False,False,False,False,False,False,22,0,True
+Quapaw Nation,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2006, 2004, 2002, 1999",False,"2021, 2018, 2016, 2013, 2011",False,True,True,True,True,True,False,False,True,False,False,True,19,5,True
+Aleut Community of St. Paul Island,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2002, 2001, 1999",False,"2021, 2012, 2002",False,True,True,True,True,True,False,False,True,False,False,False,18,3,True
+Gun Lake Tribe,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010",False,2020,False,True,True,True,True,True,False,False,False,True,False,False,13,1,True
+Ak-Chin Indian Community,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010",False,"2020, 2018",False,True,True,True,True,True,False,False,False,True,False,True,13,2,True
+Ninilchik Village,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,True,True,True,True,True,False,False,False,False,False,False,23,0,True
+Absentee Shawnee Tribe of Oklahoma,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2007, 2006, 2004, 2003, 2002, 1999",False,2019,False,True,True,True,True,True,False,False,False,False,True,False,19,1,True
+Native Village of Chignik Lagoon,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,True,True,True,True,True,False,False,False,False,False,False,21,0,True
+Confederated Tribes and Bands of the Yakama Nation,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2010, 2009, 2008, 2007, 2005, 2002, 2001, 1999, 1998",False,"2021, 2018, 2015",False,True,True,True,True,True,False,False,True,False,False,True,20,3,True
+Big Pine Paiute Tribe,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2009, 2008, 2005, 2004, 2002, 2001, 1999",False,,False,True,True,True,True,True,False,False,False,False,False,False,18,0,True
+Tohono O'odham Nation,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2007, 2006, 2005, 2004, 2003, 2002, 2001",False,"2020, 2006, 2003",False,True,True,True,True,True,False,False,False,True,False,False,18,3,True
+Morongo Band of Mission Indians,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2001",False,,False,True,True,True,True,True,False,False,False,False,False,False,12,0,True
+Seneca Nation of Indians,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2011, 2009, 2008, 2003, 1998",False,,False,True,True,True,True,True,False,False,False,False,False,False,15,0,True
+Nondalton Tribal Council,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2005, 2004, 2003, 2002, 2001, 1999",False,,False,True,True,True,True,True,False,False,False,False,False,False,16,0,True
+Oglala Sioux Tribe,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999",False,"2009, 2002, 2001",False,True,True,True,True,True,False,False,False,False,False,False,22,3,True
+Village of Aniak,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,True,True,True,True,True,False,False,False,False,False,False,22,0,True
+Federated Indians of Graton Rancheria,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004",False,"2017, 2014",False,True,True,True,True,True,False,False,False,False,False,False,17,2,True
+Aleutian Pribilof Islands Association Inc.,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014",False,2017,False,True,True,True,True,True,False,False,False,False,False,False,9,1,True
+Oneida Indian Nation,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014",False,2021,False,True,True,True,True,True,False,False,True,False,False,False,9,1,True
+Ohkay Owingeh Tribal Council,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2010, 2009, 2007, 2006, 2003, 2001, 1998",False,"2010, 2003",False,True,True,True,True,True,False,False,False,False,False,False,18,2,True
+Lac Vieux Desert Band of Lake Superior Chippewa Indians,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2009, 2008, 2007, 2006, 2005, 2004, 2002, 2001, 1999, 1998",False,,False,True,True,True,True,True,False,False,False,False,False,False,21,0,True
+Kodiak Area Native Association,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015",False,,False,True,True,True,True,True,False,False,False,False,False,False,8,0,True
+Eastern Band of Cherokee Indians,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999",False,"2002, 1999",False,True,True,True,True,True,False,False,False,False,False,False,22,2,True
+Native Village of Port Lions,True,"2022, 2021, 2020, 2019, 2018, 2017, 2014, 2013, 2012, 2010, 2007, 2004, 2002, 1999, 1998",False,,False,True,True,True,True,True,False,False,False,False,False,False,15,0,True
+Winnebago Tribe of Nebraska,True,"2022, 2021, 2020, 2019, 2018, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999, 1998",False,"2019, 2009, 2006, 2003, 1999",False,True,True,True,True,True,False,False,False,False,True,False,22,5,True
+Craig Tribal Association,True,"2022, 2021, 2020, 2019, 2018, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2004",False,,False,True,True,True,True,True,False,False,False,False,False,False,17,0,True
+Native Village of Eyak,True,"2022, 2021, 2020, 2019, 2018, 2016, 2015, 2014, 2013, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1998",False,,False,True,True,True,True,True,False,False,False,False,False,False,21,0,True
+Lac du Flambeau Band of Lake Superior Chippewa Indians,True,"2022, 2021, 2020, 2019, 2018, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,True,True,True,True,True,False,False,False,False,False,False,21,0,True
+Red Cliff Band of Lake Superior Chippewa,True,"2022, 2021, 2020, 2019, 2018, 2015, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2021, 2005, 2004, 1999",False,True,True,True,True,True,False,False,True,False,False,False,13,4,True
+Swinomish Indian Tribal Community,True,"2022, 2021, 2020, 2019, 2018, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,True,True,True,True,True,False,False,False,False,False,False,19,0,True
+Koniag Inc.,True,"2022, 2021, 2020, 2019, 2018",False,2020,False,True,True,True,True,True,False,False,False,True,False,False,5,1,True
+Hoopa Valley Tribe,True,"2022, 2021, 2020, 2019, 2017, 2016, 2015, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2001, 1999, 1998",False,"2021, 2004, 2001",False,True,True,True,True,False,False,False,True,False,False,False,20,3,True
+Orutsararmuit Traditional Native Council,True,"2022, 2021, 2020, 2019, 2017, 2016, 2015, 2008",False,,False,True,True,True,True,False,False,False,False,False,False,False,8,0,True
+Louden Tribal Council,True,"2022, 2021, 2020, 2019, 2017, 2015, 2013, 2012, 2011, 2005, 2004, 2002, 2001, 1999, 1998",False,,False,True,True,True,True,False,False,False,False,False,False,False,15,0,True
+Seminole Tribe of Florida,True,"2022, 2021, 2020, 2019, 2014, 2013, 2002, 1998",False,,False,True,True,True,True,False,False,False,False,False,False,False,8,0,True
+Igiugig Village,True,"2022, 2021, 2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2020, 2010, 2002",False,True,True,True,False,True,False,False,False,True,False,False,22,3,True
+Native Village of Napaimute,True,"2022, 2021, 2020, 2018, 2016, 2015, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2003",False,,False,True,True,True,False,True,False,False,False,False,False,False,16,0,True
+Red Lake Band of Chippewa Indians,True,"2022, 2021, 2020, 2018, 2016, 2015, 2013, 2006, 2005, 2004, 2003, 2002, 1998",False,"2021, 2016",False,True,True,True,False,True,False,False,True,False,False,False,13,2,True
+Ponca Tribe of Oklahoma,True,"2022, 2021, 2020, 2017, 2016, 2015, 2012, 2011, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999, 1998",False,,False,True,True,True,False,False,False,False,False,False,False,False,18,0,True
+San Carlos Apache Tribe,True,"2022, 2021, 2020, 2013, 2012, 2006, 2004, 2002",False,2020,False,True,True,True,False,False,False,False,False,True,False,False,8,1,True
+Kalispel Indian Community of the Kalispel Reservation,True,"2022, 2021, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,True,True,False,True,True,False,False,False,False,False,False,23,0,True
 Blue Lake Rancheria,True,"2022, 2021, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2007, 2006, 2004, 2003, 2002, 2001, 1999",False,,False,True,True,False,True,True,False,False,False,False,False,False,20,0,True
 Hualapai Indian Tribe,True,"2022, 2021, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2003, 2002",False,,False,True,True,False,True,True,False,False,False,False,False,False,14,0,True
-Kalispel Indian Community of the Kalispel Reservation,True,"2022, 2021, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,True,True,False,True,True,False,False,False,False,False,False,23,0,True
+Delaware Nation,True,"2022, 2021, 2019, 2018, 2017, 2013, 2012, 2011, 2009, 2006, 2002, 2001, 1998",False,2021,False,True,True,False,True,True,False,False,True,False,False,False,13,1,True
 Pala Band of Mission Indians,True,"2022, 2021, 2019, 2018, 2016, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2002, 1999",False,True,True,False,True,True,False,False,False,False,False,False,21,2,True
-Confederated Tribes of the Umatilla Indian Reservation,True,"2021, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2004, 2001",False,,False,False,True,False,True,True,False,False,False,False,False,False,17,0,True
-Native Village of Tetlin,True,"2021, 2019, 2018",False,,False,False,True,False,True,True,False,False,False,False,False,False,3,0,True
-Santo Domingo Tribe,True,"2021, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2005",False,,False,False,True,False,True,True,False,False,False,False,False,False,15,0,True
-Skokomish Indian Tribe,True,"2021, 2019, 2018, 2017, 2016, 2015, 2009, 2008, 2002, 2001",False,,False,False,True,False,True,True,False,False,False,False,False,False,10,0,True
-Squaxin Island Tribe,True,"2021, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,2011,False,False,True,False,True,True,False,False,False,False,False,False,22,1,True
-Pueblo of Zuni,True,"2019, 2018, 2017, 2016, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2004, 1999",False,False,False,False,True,True,False,False,False,False,False,False,16,2,True
-Colville Confederated Tribes,True,"2019, 2018, 2016, 2006, 2005, 2003, 2002, 2001, 1999, 1998",False,2003,False,False,False,False,True,True,False,False,False,False,False,False,10,1,True
-Cuyapaipe Reservation,True,"2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1998",False,,False,False,False,False,True,True,False,False,False,False,False,False,20,0,True
-Comanche Indian Tribe,True,"2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2007, 2005, 2002, 1999",False,,False,False,False,False,True,True,False,False,False,False,False,False,15,0,True
-Ione Band of Miwok Indians of California,True,"2019, 2018, 2017, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007",False,,False,False,False,False,True,True,False,False,False,False,False,False,11,0,True
-Inaja Band of Diegueno Mission Indians of the Inaja and Cosmit Reservation,True,"2019, 2018, 2017, 2016, 2014, 2013, 2012",False,,False,False,False,False,True,True,False,False,False,False,False,False,7,0,True
-Bridgeport Paiute Indian Colony,True,"2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2010, 2007, 2004, 2003, 2002, 2001, 1999",False,,False,False,False,False,True,True,False,False,False,False,False,False,15,0,True
-Apache Tribe of Oklahoma,True,"2019, 2018",False,,False,False,False,False,True,True,False,False,False,False,False,False,2,0,True
-Pascua Yaqui Tribe of Arizona,True,"2019, 2018, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006",False,"2009, 2007",False,False,False,False,True,True,False,False,False,False,False,False,13,2,True
-Campo Band of Mission Indians,True,"2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2007, 2002, 2001, 1999",False,,False,False,False,False,True,True,False,False,False,False,False,False,14,0,True
-Native Village of Napaimute,True,"2022, 2021, 2020, 2018, 2016, 2015, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2003",False,,False,True,True,True,False,True,False,False,False,False,False,False,16,0,True
-McGrath Native Village,True,"2021, 2020, 2018, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,True,True,False,True,False,False,False,False,False,False,20,0,True
-Pueblo of Cochiti,True,"2021, 2020, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2001, 1999",False,,False,False,True,True,False,True,False,False,False,False,False,False,11,0,True
-Native Village of Eagle,True,"2021, 2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999, 1998",False,,False,False,True,True,False,True,False,False,False,False,False,False,20,0,True
+Forest County Potawatomi Community,True,"2022, 2021, 2019, 2018, 2016",False,2021,False,True,True,False,True,True,False,False,True,False,False,False,5,1,True
+Coyote Valley Band of Pomo Indians,True,"2022, 2021, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2006, 2005, 2004, 2003, 2002, 2001, 1998",False,2016,False,True,True,False,True,False,False,False,False,False,False,False,20,1,True
+La Jolla Band of Luiseño Indians,True,"2022, 2021, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2002, 1999, 1998",False,,False,True,True,False,True,False,False,False,False,False,False,False,13,0,True
+Nooksack Indian Tribe,True,"2022, 2021, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002",False,"2017, 2006, 2003",False,True,True,False,False,False,False,False,False,False,False,False,18,3,True
+Dry Creek Rancheria Band of Pomo Indians,True,"2022, 2021, 2017, 2016, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2004, 1998",False,,False,True,True,False,False,False,False,False,False,False,False,False,13,0,True
+Iowa Tribe of Oklahoma,True,"2022, 2021, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2002, 2001, 1998",False,"2015, 2013, 2010, 2002, 2001",False,True,True,False,False,False,False,False,False,False,False,False,12,5,True
+Shingle Springs Band Of Miwok Indians,True,"2022, 2021, 2016, 2014, 2013, 2012, 2011, 2010, 2009, 2006, 2005, 2002, 2001, 1999, 1998",False,2011,False,True,True,False,False,False,False,False,False,False,False,False,15,1,True
+Healy Lake Village,True,"2022, 2021",False,,False,True,True,False,False,False,False,False,False,False,False,False,2,0,True
+Ottawa Tribe of Oklahoma,True,"2022, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999, 1998",False,,False,True,False,True,True,True,False,False,False,False,False,False,22,0,True
+Fort McDowell Yavapai Nation,True,"2022, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2002, 1999",False,,False,True,False,True,True,True,False,False,False,False,False,False,20,0,True
+Tonkawa Tribe of Oklahoma,True,"2022, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2005",False,,False,True,False,True,True,True,False,False,False,False,False,False,13,0,True
+Redwood Valley Tribe,True,"2022, 2020, 2019, 2018, 2017, 2016, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999, 1998",False,,False,True,False,True,True,True,False,False,False,False,False,False,21,0,True
+Fallon Paiute-Shoshone Tribe,True,"2022, 2020, 2019, 2018, 2017, 2016, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2006, 2004, 2002",False,"2014, 2006",False,True,False,True,True,True,False,False,False,False,False,False,16,2,True
+Cahto Tribe of Laytonville Rancheria,True,"2022, 2020, 2019, 2018, 2016, 2007, 1999",False,,False,True,False,True,True,True,False,False,False,False,False,False,7,0,True
+Gulkana Village Council,True,"2022, 2020, 2019, 2018, 2008, 2007, 2005, 2004, 2002, 2001, 1999",False,,False,True,False,True,True,True,False,False,False,False,False,False,11,0,True
+Reno-Sparks Indian Colony,True,"2022, 2020, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,True,False,True,True,False,False,False,False,False,False,False,21,0,True
+Nisqually Indian Tribe,True,"2022, 2020, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2006, 2002, 2001, 1999, 1998",False,"2015, 2011, 1999",False,True,False,True,True,False,False,False,False,False,False,False,18,3,True
+Native Village of Ouzinkie,True,"2022, 2020, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,True,False,True,True,False,False,False,False,False,False,False,21,0,True
+Pechanga Band of Luiseño Mission Indians,True,"2022, 2020, 2019, 2017, 2016, 2014, 2013, 2012",False,2014,False,True,False,True,True,False,False,False,False,False,False,False,8,1,True
+Cocopah Indian Tribe,True,"2022, 2020, 2019, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999",False,,False,True,False,True,True,False,False,False,False,False,False,False,20,0,True
 Sac & Fox Nation,True,"2022, 2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,True,False,True,False,True,False,False,False,False,False,False,21,0,True
-Traditional Village of Togiak,True,"2020, 2018, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007",False,,False,False,False,True,False,True,False,False,False,False,False,False,12,0,True
-Sauk-Suiattle Indian Tribe,True,"2020, 2018, 2011, 2008, 2002, 1999",False,,False,False,False,True,False,True,False,False,False,False,False,False,6,0,True
-Pauloff Harbor Village,True,"2021, 2018",False,,False,False,True,False,False,True,False,False,False,False,False,False,2,0,True
-Walker River Paiute Tribe,True,"2021, 2018, 2017, 2016, 2015, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1998",False,,False,False,True,False,False,True,False,False,False,False,False,False,17,0,True
-Pueble of Acoma,True,"2021, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2002, 2001, 1999",False,2011,False,False,True,False,False,True,False,False,False,False,False,False,18,1,True
-Colorado River Indian Tribes,True,"2022, 2018, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,True,False,False,False,True,False,False,False,False,False,False,18,0,True
+Native Village of Afognak,True,"2022, 2020, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002",False,"2015, 2005",False,True,False,True,False,False,False,False,False,False,False,False,18,2,True
+Kashia Band of Pomo Indians of the Stewarts Point Rancheria,True,"2022, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2010, 2007, 2006, 2005",False,,False,True,False,False,True,False,False,False,False,False,False,False,12,0,True
+Bad River Band of Lake Superior Tribe of Chippewa Indians,True,"2022, 2019, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999",False,,False,True,False,False,True,False,False,False,False,False,False,False,19,0,True
 Puyallup Tribe of Indians,True,"2022, 2018, 2017, 2007, 2006, 2005, 2002, 2001, 1999, 1998",False,,False,True,False,False,False,True,False,False,False,False,False,False,10,0,True
-Kiowa Tribe of Oklahoma,True,"2018, 1999, 1998",False,,False,False,False,False,False,True,False,False,False,False,False,False,3,0,True
-Picayune Rancheria of the Chukchansi Indians,True,"2018, 2012, 2011, 2010, 2009, 2008, 2007, 2005, 2004, 2003, 2002, 1999",False,2010,False,False,False,False,False,True,False,False,False,False,False,False,12,1,True
-Prairie Island Indian Community in the State of Minnesota,True,"2018, 2010",False,,False,False,False,False,False,True,False,False,False,False,False,False,2,0,True
-Mescalero Apache Tribe,True,"2018, 2016, 2014",False,"2016, 2014",False,False,False,False,False,True,False,False,False,False,False,False,3,2,True
-Port Gamble S'Klallam Tribe,True,"2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999, 1998",False,,False,False,False,False,False,True,False,False,False,False,False,False,19,0,True
-Sitka Tribe of Alaska (IRA),True,"2018, 2016, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004",False,"2008, 2006, 2004",False,False,False,False,False,True,False,False,False,False,False,False,10,3,True
-Chickaloon Native Village,True,"2018, 2013, 2012, 2011, 2010, 2007, 2006, 2005, 2004, 2003, 2002, 1999",False,,False,False,False,False,False,True,False,False,False,False,False,False,12,0,True
-WILTON RANCHERIA,True,"2018, 2017, 2016, 2015",False,,False,False,False,False,False,True,False,False,False,False,False,False,4,0,True
-Big Sandy Rancheria of Mono Indians of California,True,"2018, 2017, 2016, 2014, 2013, 2012",False,,False,False,False,False,False,True,False,False,False,False,False,False,6,0,True
-Standing Rock Sioux Tribe,True,"2018, 2015, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1998",False,2008,False,False,False,False,False,True,False,False,False,False,False,False,16,1,True
-Sherwood Valley Rancheria,True,"2018, 2016, 2015, 2013, 2012, 2011, 2010, 2009, 2007, 2006, 2005, 2004, 2003, 2001, 1998",False,,False,False,False,False,False,True,False,False,False,False,False,False,15,0,True
-White Mountain Apache Tribe,True,"2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2004, 2002, 1999",False,2007,False,False,False,False,False,True,False,False,False,False,False,False,16,1,True
-Seminole Tribe of Florida,True,"2022, 2021, 2020, 2019, 2014, 2013, 2002, 1998",False,,False,True,True,True,True,False,False,False,False,False,False,False,8,0,True
-Louden Tribal Council,True,"2022, 2021, 2020, 2019, 2017, 2015, 2013, 2012, 2011, 2005, 2004, 2002, 2001, 1999, 1998",False,,False,True,True,True,True,False,False,False,False,False,False,False,15,0,True
-Orutsararmuit Traditional Native Council,True,"2022, 2021, 2020, 2019, 2017, 2016, 2015, 2008",False,,False,True,True,True,True,False,False,False,False,False,False,False,8,0,True
-Fort Independence Indian Reservation,True,"2021, 2020, 2019, 2016, 2015, 2002, 2001",False,,False,False,True,True,True,False,False,False,False,False,False,False,7,0,True
+Colorado River Indian Tribes,True,"2022, 2018, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,True,False,False,False,True,False,False,False,False,False,False,18,0,True
+Quinault Indian Nation,True,"2022, 2014, 2013, 2011, 2010, 2009, 2007, 2006, 2004, 2003",False,,False,True,False,False,False,False,False,False,False,False,False,False,10,0,True
+Cheesh'Na Tribe,True,"2022, 2007, 2005, 2004, 2003, 2002, 2001, 1999",False,,False,True,False,False,False,False,False,False,False,False,False,False,8,0,True
+Shaan Seet Inc.,True,"2022, 2005",False,,False,True,False,False,False,False,False,False,False,False,False,False,2,0,True
+Village of Iliamna,True,"2022, 2002, 2001, 1999",False,,False,True,False,False,False,False,False,False,False,False,False,False,4,0,True
+Rincon Band of Luiseño Indians,True,"2022, 2001, 1999",False,,False,True,False,False,False,False,False,False,False,False,False,False,3,0,True
+Village of Dot Lake,True,2022,False,,False,True,False,False,False,False,False,False,False,False,False,False,1,0,True
+Chicken Ranch Rancheria of Me-Wuk Indians of California,True,2022,False,,False,True,False,False,False,False,False,False,False,False,False,False,1,0,True
+Ounalashka Corporation,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,True,True,True,True,False,False,False,False,False,False,23,0,True
+Menominee Indian Tribe of Wisconsin,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2020, 2018, 2016, 2014, 2010",False,False,True,True,True,True,False,False,False,True,False,True,23,5,True
+Shoalwater Bay Indian Tribe,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,True,True,True,True,False,False,False,False,False,False,23,0,True
+Pueblo of Laguna,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,True,True,True,True,False,False,False,False,False,False,23,0,True
+Alabama-Coushatta Tribe of Texas,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999",False,,False,False,True,True,True,True,False,False,False,False,False,False,22,0,True
+Curyung Tribal Council,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999",False,,False,False,True,True,True,True,False,False,False,False,False,False,22,0,True
+Elk Valley Rancheria,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1998",False,2002,False,False,True,True,True,True,False,False,False,False,False,False,22,1,True
+Peoria Tribe of Indians of Oklahoma,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999, 1998",False,,False,False,True,True,True,True,False,False,False,False,False,False,22,0,True
+Fort Belknap Indian Community,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2002, 2001, 1999, 1998",False,"2019, 2016, 2012, 2009, 2008, 2006, 2004, 2002, 2001",False,False,True,True,True,True,False,False,False,False,True,False,22,9,True
+Stockbridge-Munsee Community,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005",False,"2021, 2017, 2013",False,False,True,True,True,True,False,False,True,False,False,False,17,3,True
+Bishop Indian Tribal Council,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2004, 2002",False,"2021, 2017, 2015",False,False,True,True,True,True,False,False,True,False,False,False,18,3,True
+Oneida Nation,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2005, 2004, 2003, 2002, 1999, 1998",False,"2021, 2018, 2014, 2010, 1999",False,False,True,True,True,True,False,False,True,False,False,True,21,5,True
+Ponca Tribe of Nebraska,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,True,True,True,True,False,False,False,False,False,False,22,0,True
+Pokagon Band of Potawatomi,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2006, 2005, 1999, 1998",False,"2020, 2012",False,False,True,True,True,True,False,False,False,True,False,False,18,2,True
+Ute Mountain Ute Tribe,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2006, 2002, 1999, 1998",False,2009,False,False,True,True,True,True,False,False,False,False,False,False,18,1,True
+Lummi Nation,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2010, 2006, 2004, 1999",False,False,True,True,True,True,False,False,False,False,False,False,22,4,True
+Turtle Mountain Band of Chippewa Indians,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2021, 2017",False,False,True,True,True,True,False,False,True,False,False,False,20,2,True
+Nenana Native Association,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,1999,False,False,True,True,True,True,False,False,False,False,False,False,22,1,True
+Pedro Bay Village Council,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2008, 2007, 2006, 2005, 2002, 2001, 1999, 1998",False,,False,False,True,True,True,True,False,False,False,False,False,False,19,0,True
+Mohegan Tribe,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011",False,2020,False,False,True,True,True,True,False,False,False,True,False,False,11,1,True
+Pueblo of Tesuque,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2008, 2007, 2006, 2005",False,,False,False,True,True,True,True,False,False,False,False,False,False,14,0,True
+Susanville Indian Rancheria,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2002, 2001",False,,False,False,True,True,True,True,False,False,False,False,False,False,12,0,True
+Nome Eskimo Community,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012",False,,False,False,True,True,True,True,False,False,False,False,False,False,10,0,True
+Catawba Indian Nation,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2009, 2003, 1999",False,"2020, 2018",False,False,True,True,True,True,False,False,False,True,False,True,12,2,True
+Cedarville Rancheria,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2010, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999",False,,False,False,True,True,True,True,False,False,False,False,False,False,19,0,True
+Pueblo of San Felipe,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2003, 2002, 2001, 1999, 1998",False,,False,False,True,True,True,True,False,False,False,False,False,False,12,0,True
+Yankton Sioux Tribe,True,"2021, 2020, 2019, 2018, 2017, 2016, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2002, 1998",False,,False,False,True,True,True,True,False,False,False,False,False,False,18,0,True
+Hannahville Indian Community,True,"2021, 2020, 2019, 2018, 2017, 2016, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,True,True,True,True,False,False,False,False,False,False,21,0,True
+Eastern Shoshone Tribe,True,"2021, 2020, 2019, 2018, 2017, 2016, 2014, 2013, 2012, 2010, 2009, 2008, 2006, 2003",False,,False,False,True,True,True,True,False,False,False,False,False,False,14,0,True
+Pueblo of San Ildefonso,True,"2021, 2020, 2019, 2018, 2017, 2016, 2011, 2010, 2009",False,,False,False,True,True,True,True,False,False,False,False,False,False,9,0,True
+Pueblo of Santa Ana,True,"2021, 2020, 2019, 2018, 2017, 2016, 2008, 2007, 2006, 2005, 2004, 2002, 1999, 1998",False,,False,False,True,True,True,True,False,False,False,False,False,False,14,0,True
+Hydaburg Cooperative Association,True,"2021, 2020, 2019, 2018, 2017, 2016, 2007, 2006",False,"2019, 2017",False,False,True,True,True,True,False,False,False,False,True,False,8,2,True
+Hoh Tribe,True,"2021, 2020, 2019, 2018, 2016, 2015, 2014, 2012, 2009",False,"2016, 2014",False,False,True,True,True,True,False,False,False,False,False,False,9,2,True
+Seneca-Cayuga Tribe of Oklahoma,True,"2021, 2020, 2019, 2018, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2007, 2006, 2005, 2003, 2002, 2001, 1999, 1998",False,,False,False,True,True,True,True,False,False,False,False,False,False,19,0,True
+Central Council of Tlingit and Haida Indian Tribes,True,"2021, 2020, 2019, 2018, 2002, 2001, 1999, 1998",False,2020,False,False,True,True,True,True,False,False,False,True,False,False,8,1,True
 Santa Rosa Band of Cahuilla Indians,True,"2021, 2020, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010",False,,False,False,True,True,True,False,False,False,False,False,False,False,11,0,True
 Stillaguamish Tribe of Indians,True,"2021, 2020, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2010, 2008, 2007, 2006, 2003, 2001",False,,False,False,True,True,True,False,False,False,False,False,False,False,15,0,True
 Ramona Band of Cahuilla Indians,True,"2021, 2020, 2019, 2016, 2015, 2013, 2012, 2011, 2010, 2007, 2006, 2005, 2002",False,,False,False,True,True,True,False,False,False,False,False,False,False,13,0,True
-Native Village of Ouzinkie,True,"2022, 2020, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,True,False,True,True,False,False,False,False,False,False,False,21,0,True
-Cocopah Indian Tribe,True,"2022, 2020, 2019, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999",False,,False,True,False,True,True,False,False,False,False,False,False,False,20,0,True
-Nisqually Indian Tribe,True,"2022, 2020, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2006, 2002, 2001, 1999, 1998",False,"2015, 2011, 1999",False,True,False,True,True,False,False,False,False,False,False,False,18,3,True
-Pechanga Band of Luiseño Mission Indians,True,"2022, 2020, 2019, 2017, 2016, 2014, 2013, 2012",False,2014,False,True,False,True,True,False,False,False,False,False,False,False,8,1,True
-Reno-Sparks Indian Colony,True,"2022, 2020, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,True,False,True,True,False,False,False,False,False,False,False,21,0,True
-Cheyenne-Arapaho Tribes of Oklahoma,True,"2020, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2005, 2004, 2003, 2002, 2001, 1999",False,,False,False,False,True,True,False,False,False,False,False,False,False,19,0,True
-Cow Creek Band of Umpqua Tribe of Indians,True,"2020, 2019, 2017, 2016, 2015, 2014, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1998",False,,False,False,False,True,True,False,False,False,False,False,False,False,17,0,True
-Big Valley Band of Pomo Indians,True,"2020, 2019, 2016, 2014, 2011, 2010, 2009, 2007, 2005, 2004, 2003, 2002, 1999",False,,False,False,False,True,True,False,False,False,False,False,False,False,13,0,True
-Chemehuevi Indian Tribe,True,"2020, 2019, 2017, 2016, 2014, 2013, 2012, 2010, 2009, 2007, 2006, 2005, 2004, 2003, 2002",False,,False,False,False,True,True,False,False,False,False,False,False,False,15,0,True
-Aroostook Band Micmacs,True,"2020, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,False,True,True,False,False,False,False,False,False,False,21,0,True
-Guidiville Indian Rancheria,True,"2020, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2005, 2004, 2003, 2002, 2001, 1998",False,,False,False,False,True,True,False,False,False,False,False,False,False,19,0,True
-La Jolla Band of Luiseño Indians,True,"2022, 2021, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2002, 1999, 1998",False,,False,True,True,False,True,False,False,False,False,False,False,False,13,0,True
-Coyote Valley Band of Pomo Indians,True,"2022, 2021, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2006, 2005, 2004, 2003, 2002, 2001, 1998",False,2016,False,True,True,False,True,False,False,False,False,False,False,False,20,1,True
-Pueblo of Zia,True,"2021, 2019, 2017, 2016, 2015, 2014, 2013, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,True,False,True,False,False,False,False,False,False,False,20,0,True
-Ysleta Del Sur Pueblo,True,"2021, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999",False,"2014, 2012, 2008, 2004, 2003",False,False,True,False,True,False,False,False,False,False,False,False,18,5,True
-Kashia Band of Pomo Indians of the Stewarts Point Rancheria,True,"2022, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2010, 2007, 2006, 2005",False,,False,True,False,False,True,False,False,False,False,False,False,False,12,0,True
-Bad River Band of Lake Superior Tribe of Chippewa Indians,True,"2022, 2019, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999",False,,False,True,False,False,True,False,False,False,False,False,False,False,19,0,True
-Confederated Tribes of Coos et.al,True,"2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2008, 2007, 2006, 2005, 2003, 2002, 2001, 1999",False,,False,False,False,False,True,False,False,False,False,False,False,False,16,0,True
-Huna Heritage Foundation Inc,True,2019,False,,False,False,False,False,True,False,False,False,False,False,False,False,1,0,True
-Yakutat Tlingit Tribe,True,"2019, 2016, 2010, 2009, 2008, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,False,False,True,False,False,False,False,False,False,False,13,0,True
-Northwestern Band of the Shoshone Nation,True,"2019, 2017, 2016, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2002, 2001",False,,False,False,False,False,True,False,False,False,False,False,False,False,15,0,True
-Qagan Tayagungin Tribe of Sand Point Village,True,"2019, 2017, 2016, 2015, 2014, 2013",False,,False,False,False,False,True,False,False,False,False,False,False,False,6,0,True
-Delaware Tribe of Indians,True,"2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2004",False,,False,False,False,False,True,False,False,False,False,False,False,False,10,0,True
-Sycuan Band of the Kumeyaay Nation,True,"2019, 2017, 2016, 2015, 2014, 2013, 2012, 2002",False,,False,False,False,False,True,False,False,False,False,False,False,False,8,0,True
-Nunakauyarmiut Tribe,True,2019,False,,False,False,False,False,True,False,False,False,False,False,False,False,1,0,True
-Hopland Band of Pomo Indians,True,"2019, 2017, 2016, 2014, 2013, 2012, 2011, 2010, 2007, 2006, 2005, 2004, 2003, 2002",False,,False,False,False,False,True,False,False,False,False,False,False,False,14,0,True
-Native Village of Unalakleet,True,"2019, 2016",False,,False,False,False,False,True,False,False,False,False,False,False,False,2,0,True
-Ponca Tribe of Oklahoma,True,"2022, 2021, 2020, 2017, 2016, 2015, 2012, 2011, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999, 1998",False,,False,True,True,True,False,False,False,False,False,False,False,False,18,0,True
+Fort Independence Indian Reservation,True,"2021, 2020, 2019, 2016, 2015, 2002, 2001",False,,False,False,True,True,True,False,False,False,False,False,False,False,7,0,True
+Sealaska Corporation,True,"2021, 2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999",False,"2020, 2015, 2011, 2008, 2007, 2005, 2003, 2002, 1999",False,False,True,True,False,True,False,False,False,True,False,False,20,9,True
+Native Village of Eagle,True,"2021, 2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999, 1998",False,,False,False,True,True,False,True,False,False,False,False,False,False,20,0,True
+Pueblo of Cochiti,True,"2021, 2020, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2001, 1999",False,,False,False,True,True,False,True,False,False,False,False,False,False,11,0,True
+McGrath Native Village,True,"2021, 2020, 2018, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,True,True,False,True,False,False,False,False,False,False,20,0,True
+Sisseton-Wahpeton Oyate,True,"2021, 2020, 2010, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,2021,False,False,True,True,False,False,False,False,True,False,False,False,12,1,True
+Shoshone-Bannock Tribes,True,"2021, 2020, 2002, 2001, 1999",False,2020,False,False,True,True,False,False,False,False,False,True,False,False,5,1,True
 Kootznoowoo Inc.,True,"2021, 2020",False,,False,False,True,True,False,False,False,False,False,False,False,False,2,0,True
 Coeur d'Alene Tribe,True,"2021, 2020",False,,False,False,True,True,False,False,False,False,False,False,False,False,2,0,True
-Native Village of Afognak,True,"2022, 2020, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002",False,"2015, 2005",False,True,False,True,False,False,False,False,False,False,False,False,18,2,True
-Cheyenne River Sioux Tribe,True,"2020, 2016, 2015, 2014, 2013, 2012, 2004",False,2004,False,False,False,True,False,False,False,False,False,False,False,False,7,1,True
-Kaibab Band of Paiute Indians,True,"2020, 2009, 2006, 2005, 2004, 2001, 1999, 1998",False,,False,False,False,True,False,False,False,False,False,False,False,False,8,0,True
-Manzanita Band of Mission Indians,True,"2020, 2016, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2006, 2005, 2004, 2002, 2001, 1999, 1998",False,,False,False,False,True,False,False,False,False,False,False,False,False,16,0,True
-Wampanoag Tribe of Gay Head,True,"2020, 2017, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2003, 2002, 2001, 1998",False,,False,False,False,True,False,False,False,False,False,False,False,False,17,0,True
-Cowlitz Indian Tribe,True,"2020, 2004, 2003, 2002",False,,False,False,False,True,False,False,False,False,False,False,False,False,4,0,True
-Caddo Indian Tribe,True,"2020, 2017, 2016, 2012, 2011, 2010, 2009, 2008, 2005, 2003, 1999",False,,False,False,False,True,False,False,False,False,False,False,False,False,11,0,True
-Confederated Tribes of the Chehalis Reservation,True,2020,False,,False,False,False,True,False,False,False,False,False,False,False,False,1,0,True
-Iowa Tribe of Oklahoma,True,"2022, 2021, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2002, 2001, 1998",False,"2015, 2013, 2010, 2002, 2001",False,True,True,False,False,False,False,False,False,False,False,False,12,5,True
-Dry Creek Rancheria Band of Pomo Indians,True,"2022, 2021, 2017, 2016, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2004, 1998",False,,False,True,True,False,False,False,False,False,False,False,False,False,13,0,True
-Healy Lake Village,True,"2022, 2021",False,,False,True,True,False,False,False,False,False,False,False,False,False,2,0,True
-Nooksack Indian Tribe,True,"2022, 2021, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002",False,"2017, 2006, 2003",False,True,True,False,False,False,False,False,False,False,False,False,18,3,True
-Shingle Springs Band Of Miwok Indians,True,"2022, 2021, 2016, 2014, 2013, 2012, 2011, 2010, 2009, 2006, 2005, 2002, 2001, 1999, 1998",False,2011,False,True,True,False,False,False,False,False,False,False,False,False,15,1,True
-Berry Creek Rancheria,True,"2021, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2001, 1998",False,,False,False,True,False,False,False,False,False,False,False,False,False,14,0,True
-Confederated Tribes of Warm Springs Reservation of Oregon,True,"2021, 2017, 2015, 2014, 2013, 2012, 2008, 2005, 2004, 2003, 2001, 1999, 1998",False,2004,False,False,True,False,False,False,False,False,False,False,False,False,13,1,True
-Rappahannock Tribe,True,2021,False,,False,False,True,False,False,False,False,False,False,False,False,False,1,0,True
-Los Coyotes Band of Cahuilla and Cupeno Indians,True,"2021, 2014, 2013, 2012, 2011, 2007, 2005, 2002",False,,False,False,True,False,False,False,False,False,False,False,False,False,8,0,True
-Jena Band of Choctaw Indians,True,"2021, 2011, 2010, 2006",False,,False,False,True,False,False,False,False,False,False,False,False,False,4,0,True
-Northfork Rancheria Mono Indians,True,"2021, 2017, 2016, 2015, 2014, 2013, 2012, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,True,False,False,False,False,False,False,False,False,False,18,0,True
-Buena Vista Rancheria of Me-Wuk Indians of California,True,"2021, 2016",False,,False,False,True,False,False,False,False,False,False,False,False,False,2,0,True
+Squaxin Island Tribe,True,"2021, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,2011,False,False,True,False,True,True,False,False,False,False,False,False,22,1,True
+Confederated Tribes of the Umatilla Indian Reservation,True,"2021, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2004, 2001",False,,False,False,True,False,True,True,False,False,False,False,False,False,17,0,True
+Santo Domingo Tribe,True,"2021, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2005",False,,False,False,True,False,True,True,False,False,False,False,False,False,15,0,True
+Pueblo of Isleta,True,"2021, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,2019,False,False,True,False,True,True,False,False,False,False,True,False,20,1,True
+Skokomish Indian Tribe,True,"2021, 2019, 2018, 2017, 2016, 2015, 2009, 2008, 2002, 2001",False,,False,False,True,False,True,True,False,False,False,False,False,False,10,0,True
+Penobscot Indian Nation,True,"2021, 2019, 2018, 2017, 2015, 2014, 2013, 2010, 2007, 2006, 2005, 2003, 2002, 2001, 1998",False,2018,False,False,True,False,True,True,False,False,False,False,False,True,15,1,True
+Native Village of Tetlin,True,"2021, 2019, 2018",False,,False,False,True,False,True,True,False,False,False,False,False,False,3,0,True
+Ysleta Del Sur Pueblo,True,"2021, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999",False,"2014, 2012, 2008, 2004, 2003",False,False,True,False,True,False,False,False,False,False,False,False,18,5,True
+Miami Tribe of Oklahoma,True,"2021, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2021, 2008, 2006, 2004, 2002, 2001",False,False,True,False,True,False,False,False,True,False,False,False,19,6,True
+Pueblo of Zia,True,"2021, 2019, 2017, 2016, 2015, 2014, 2013, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,True,False,True,False,False,False,False,False,False,False,20,0,True
+Pueble of Acoma,True,"2021, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2002, 2001, 1999",False,2011,False,False,True,False,False,True,False,False,False,False,False,False,18,1,True
+Pyramid Lake Paiute Tribe,True,"2021, 2018, 2017, 2016, 2015, 2014, 2013, 2011, 2008, 2007, 2006, 2004, 2003, 2002, 2001, 1999, 1998",False,"2021, 2018",False,False,True,False,False,True,False,False,True,False,False,True,17,2,True
+Walker River Paiute Tribe,True,"2021, 2018, 2017, 2016, 2015, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1998",False,,False,False,True,False,False,True,False,False,False,False,False,False,17,0,True
+Pauloff Harbor Village,True,"2021, 2018",False,,False,False,True,False,False,True,False,False,False,False,False,False,2,0,True
 Ely Shoshone Tribe,True,"2021, 2017, 2016, 2015, 2014, 2013, 2012, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,2008,False,False,True,False,False,False,False,False,False,False,False,False,19,1,True
+Northfork Rancheria Mono Indians,True,"2021, 2017, 2016, 2015, 2014, 2013, 2012, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,True,False,False,False,False,False,False,False,False,False,18,0,True
+Pinoleville Pomo Nation,True,"2021, 2017, 2016, 2015, 2012, 2011, 2010, 2008, 2007, 2005, 2004, 2003, 2002, 2001, 1998",False,2021,False,False,True,False,False,False,False,False,True,False,False,False,15,1,True
+Confederated Tribes of Warm Springs Reservation of Oregon,True,"2021, 2017, 2015, 2014, 2013, 2012, 2008, 2005, 2004, 2003, 2001, 1999, 1998",False,2004,False,False,True,False,False,False,False,False,False,False,False,False,13,1,True
+Buena Vista Rancheria of Me-Wuk Indians of California,True,"2021, 2016",False,,False,False,True,False,False,False,False,False,False,False,False,False,2,0,True
 Middletown Rancheria of Pomo Indians,True,"2021, 2015, 2014, 2013, 1998",False,,False,False,True,False,False,False,False,False,False,False,False,False,5,0,True
+Los Coyotes Band of Cahuilla and Cupeno Indians,True,"2021, 2014, 2013, 2012, 2011, 2007, 2005, 2002",False,,False,False,True,False,False,False,False,False,False,False,False,False,8,0,True
 Fort Mojave Indian Tribe,True,"2021, 2014, 2013, 2012, 2002, 1998",False,,False,False,True,False,False,False,False,False,False,False,False,False,6,0,True
-Cheesh'Na Tribe,True,"2022, 2007, 2005, 2004, 2003, 2002, 2001, 1999",False,,False,True,False,False,False,False,False,False,False,False,False,False,8,0,True
-Quinault Indian Nation,True,"2022, 2014, 2013, 2011, 2010, 2009, 2007, 2006, 2004, 2003",False,,False,True,False,False,False,False,False,False,False,False,False,False,10,0,True
-Rincon Band of Luiseño Indians,True,"2022, 2001, 1999",False,,False,True,False,False,False,False,False,False,False,False,False,False,3,0,True
-Village of Dot Lake,True,2022,False,,False,True,False,False,False,False,False,False,False,False,False,False,1,0,True
-Shaan Seet Inc.,True,"2022, 2005",False,,False,True,False,False,False,False,False,False,False,False,False,False,2,0,True
-Village of Iliamna,True,"2022, 2002, 2001, 1999",False,,False,True,False,False,False,False,False,False,False,False,False,False,4,0,True
-Chicken Ranch Rancheria of Me-Wuk Indians of California,True,2022,False,,False,True,False,False,False,False,False,False,False,False,False,False,1,0,True
-Upper Skagit Indian Tribe,True,"2017, 2016, 2013, 2012, 2011, 2010, 2009, 2007, 2006, 2005, 2004, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,12,0,True
-Osage Nation,True,"2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2006, 2005, 2004, 2002, 2001, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,16,0,True
-Yavapai Apache Nation,True,"2017, 2016, 2015, 2014, 2013, 2012, 2011",False,,False,False,False,False,False,False,False,False,False,False,False,False,7,0,True
-Little River Band of Ottawa Indians,True,"2017, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
-Selawik IRA Council,True,"2017, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,4,0,True
-Washoe Tribe of Nevada & California,True,"2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2003, 2002, 2001, 1999, 1998",False,"2011, 2002",False,False,False,False,False,False,False,False,False,False,False,False,16,2,True
+Berry Creek Rancheria,True,"2021, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2001, 1998",False,,False,False,True,False,False,False,False,False,False,False,False,False,14,0,True
+Jena Band of Choctaw Indians,True,"2021, 2011, 2010, 2006",False,,False,False,True,False,False,False,False,False,False,False,False,False,4,0,True
+Prairie Band Potawatomi Nation,True,"2021, 2010, 2009, 2008, 2007, 2005, 2004, 2003, 2002",False,2021,False,False,True,False,False,False,False,False,True,False,False,False,9,1,True
+Rappahannock Tribe,True,2021,False,,False,False,True,False,False,False,False,False,False,False,False,False,1,0,True
+Tolowa Dee-ni Nation,True,"2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2004, 2003, 2002, 1999, 1998",False,2019,False,False,False,True,True,True,False,False,False,False,True,False,20,1,True
+Blackfeet Tribe,True,"2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2010, 2008, 2007, 2006, 2005, 2004, 2002, 2001, 1999",False,"2020, 2017, 2006",False,False,False,True,True,True,False,False,False,True,False,False,18,3,True
+Coushatta Tribe of Louisiana,True,"2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2010, 2008, 2007",False,,False,False,False,True,True,True,False,False,False,False,False,False,12,0,True
+Seldovia Village Tribe,True,"2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012",False,2013,False,False,False,True,True,True,False,False,False,False,False,False,9,1,True
+Poarch Band of Creek Indians,True,"2020, 2019, 2018, 2017, 2016, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,2006,False,False,False,True,True,True,False,False,False,False,False,False,21,1,True
+Tuolumne Band of Me-Wuk Indians,True,"2020, 2019, 2018, 2017, 2016, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2002, 1999, 1998",False,"2019, 2008",False,False,False,True,True,True,False,False,False,False,True,False,16,2,True
+Organized Village of Kasaan (IRA),True,"2020, 2019, 2018, 2017, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2003",False,"2012, 2009, 2007",False,False,False,True,True,True,False,False,False,False,False,False,16,3,True
+Pueblo of Jemez,True,"2020, 2019, 2018, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2019, 2015, 2012, 2010, 2008, 2006, 2004, 2002, 2001, 1999",False,False,False,True,True,True,False,False,False,False,True,False,21,10,True
+Cachil Dehe Band of Wintun Indians,True,"2020, 2019, 2018, 2016, 2015, 2014, 2013, 2012, 2010, 2009, 2007",False,,False,False,False,True,True,True,False,False,False,False,False,False,11,0,True
+Spirit Lake Nation,True,"2020, 2019, 2018, 2016, 2015, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2018, 2015, 2010, 2007, 1999",False,False,False,True,True,True,False,False,False,False,False,True,20,5,True
+Aroostook Band Micmacs,True,"2020, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,False,True,True,False,False,False,False,False,False,False,21,0,True
+Cheyenne-Arapaho Tribes of Oklahoma,True,"2020, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2005, 2004, 2003, 2002, 2001, 1999",False,,False,False,False,True,True,False,False,False,False,False,False,False,19,0,True
+Guidiville Indian Rancheria,True,"2020, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2005, 2004, 2003, 2002, 2001, 1998",False,,False,False,False,True,True,False,False,False,False,False,False,False,19,0,True
+Cow Creek Band of Umpqua Tribe of Indians,True,"2020, 2019, 2017, 2016, 2015, 2014, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1998",False,,False,False,False,True,True,False,False,False,False,False,False,False,17,0,True
+Chemehuevi Indian Tribe,True,"2020, 2019, 2017, 2016, 2014, 2013, 2012, 2010, 2009, 2007, 2006, 2005, 2004, 2003, 2002",False,,False,False,False,True,True,False,False,False,False,False,False,False,15,0,True
+Big Valley Band of Pomo Indians,True,"2020, 2019, 2016, 2014, 2011, 2010, 2009, 2007, 2005, 2004, 2003, 2002, 1999",False,,False,False,False,True,True,False,False,False,False,False,False,False,13,0,True
+Traditional Village of Togiak,True,"2020, 2018, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007",False,,False,False,False,True,False,True,False,False,False,False,False,False,12,0,True
+Sauk-Suiattle Indian Tribe,True,"2020, 2018, 2011, 2008, 2002, 1999",False,,False,False,False,True,False,True,False,False,False,False,False,False,6,0,True
+Caddo Indian Tribe,True,"2020, 2017, 2016, 2012, 2011, 2010, 2009, 2008, 2005, 2003, 1999",False,,False,False,False,True,False,False,False,False,False,False,False,False,11,0,True
+Wampanoag Tribe of Gay Head,True,"2020, 2017, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2003, 2002, 2001, 1998",False,,False,False,False,True,False,False,False,False,False,False,False,False,17,0,True
+Cheyenne River Sioux Tribe,True,"2020, 2016, 2015, 2014, 2013, 2012, 2004",False,2004,False,False,False,True,False,False,False,False,False,False,False,False,7,1,True
+Manzanita Band of Mission Indians,True,"2020, 2016, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2006, 2005, 2004, 2002, 2001, 1999, 1998",False,,False,False,False,True,False,False,False,False,False,False,False,False,16,0,True
+Kaibab Band of Paiute Indians,True,"2020, 2009, 2006, 2005, 2004, 2001, 1999, 1998",False,,False,False,False,True,False,False,False,False,False,False,False,False,8,0,True
+Cowlitz Indian Tribe,True,"2020, 2004, 2003, 2002",False,,False,False,False,True,False,False,False,False,False,False,False,False,4,0,True
+Confederated Tribes of the Chehalis Reservation,True,2020,False,,False,False,False,True,False,False,False,False,False,False,False,False,1,0,True
+Cuyapaipe Reservation,True,"2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1998",False,,False,False,False,False,True,True,False,False,False,False,False,False,20,0,True
+Comanche Indian Tribe,True,"2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2007, 2005, 2002, 1999",False,,False,False,False,False,True,True,False,False,False,False,False,False,15,0,True
+Enterprise Rancheria of Maidu Indians,True,"2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2007, 2004, 2003, 2002, 2001, 1999, 1998",False,2019,False,False,False,False,True,True,False,False,False,False,True,False,18,1,True
+Campo Band of Mission Indians,True,"2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2007, 2002, 2001, 1999",False,,False,False,False,False,True,True,False,False,False,False,False,False,14,0,True
+Bridgeport Paiute Indian Colony,True,"2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2010, 2007, 2004, 2003, 2002, 2001, 1999",False,,False,False,False,False,True,True,False,False,False,False,False,False,15,0,True
+Inaja Band of Diegueno Mission Indians of the Inaja and Cosmit Reservation,True,"2019, 2018, 2017, 2016, 2014, 2013, 2012",False,,False,False,False,False,True,True,False,False,False,False,False,False,7,0,True
+Pueblo of Zuni,True,"2019, 2018, 2017, 2016, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2004, 1999",False,False,False,False,True,True,False,False,False,False,False,False,16,2,True
+Ione Band of Miwok Indians of California,True,"2019, 2018, 2017, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007",False,,False,False,False,False,True,True,False,False,False,False,False,False,11,0,True
+Pascua Yaqui Tribe of Arizona,True,"2019, 2018, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006",False,"2009, 2007",False,False,False,False,True,True,False,False,False,False,False,False,13,2,True
+Colville Confederated Tribes,True,"2019, 2018, 2016, 2006, 2005, 2003, 2002, 2001, 1999, 1998",False,2003,False,False,False,False,True,True,False,False,False,False,False,False,10,1,True
+Apache Tribe of Oklahoma,True,"2019, 2018",False,,False,False,False,False,True,True,False,False,False,False,False,False,2,0,True
+Delaware Tribe of Indians,True,"2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2004",False,,False,False,False,False,True,False,False,False,False,False,False,False,10,0,True
+Confederated Tribes of Coos et.al,True,"2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2008, 2007, 2006, 2005, 2003, 2002, 2001, 1999",False,,False,False,False,False,True,False,False,False,False,False,False,False,16,0,True
+Sycuan Band of the Kumeyaay Nation,True,"2019, 2017, 2016, 2015, 2014, 2013, 2012, 2002",False,,False,False,False,False,True,False,False,False,False,False,False,False,8,0,True
+Qagan Tayagungin Tribe of Sand Point Village,True,"2019, 2017, 2016, 2015, 2014, 2013",False,,False,False,False,False,True,False,False,False,False,False,False,False,6,0,True
+Hopland Band of Pomo Indians,True,"2019, 2017, 2016, 2014, 2013, 2012, 2011, 2010, 2007, 2006, 2005, 2004, 2003, 2002",False,,False,False,False,False,True,False,False,False,False,False,False,False,14,0,True
+Northwestern Band of the Shoshone Nation,True,"2019, 2017, 2016, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2002, 2001",False,,False,False,False,False,True,False,False,False,False,False,False,False,15,0,True
+Yakutat Tlingit Tribe,True,"2019, 2016, 2010, 2009, 2008, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,False,False,True,False,False,False,False,False,False,False,13,0,True
+Native Village of Unalakleet,True,"2019, 2016",False,,False,False,False,False,True,False,False,False,False,False,False,False,2,0,True
+Huna Heritage Foundation Inc,True,2019,False,,False,False,False,False,True,False,False,False,False,False,False,False,1,0,True
+Nunakauyarmiut Tribe,True,2019,False,,False,False,False,False,True,False,False,False,False,False,False,False,1,0,True
+Port Gamble S'Klallam Tribe,True,"2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999, 1998",False,,False,False,False,False,False,True,False,False,False,False,False,False,19,0,True
+White Mountain Apache Tribe,True,"2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2004, 2002, 1999",False,2007,False,False,False,False,False,True,False,False,False,False,False,False,16,1,True
+WILTON RANCHERIA,True,"2018, 2017, 2016, 2015",False,,False,False,False,False,False,True,False,False,False,False,False,False,4,0,True
+Big Sandy Rancheria of Mono Indians of California,True,"2018, 2017, 2016, 2014, 2013, 2012",False,,False,False,False,False,False,True,False,False,False,False,False,False,6,0,True
+Sherwood Valley Rancheria,True,"2018, 2016, 2015, 2013, 2012, 2011, 2010, 2009, 2007, 2006, 2005, 2004, 2003, 2001, 1998",False,,False,False,False,False,False,True,False,False,False,False,False,False,15,0,True
+Mescalero Apache Tribe,True,"2018, 2016, 2014",False,"2016, 2014",False,False,False,False,False,True,False,False,False,False,False,False,3,2,True
+Sitka Tribe of Alaska (IRA),True,"2018, 2016, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004",False,"2008, 2006, 2004",False,False,False,False,False,True,False,False,False,False,False,False,10,3,True
+Standing Rock Sioux Tribe,True,"2018, 2015, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1998",False,2008,False,False,False,False,False,True,False,False,False,False,False,False,16,1,True
+Chickaloon Native Village,True,"2018, 2013, 2012, 2011, 2010, 2007, 2006, 2005, 2004, 2003, 2002, 1999",False,,False,False,False,False,False,True,False,False,False,False,False,False,12,0,True
+Picayune Rancheria of the Chukchansi Indians,True,"2018, 2012, 2011, 2010, 2009, 2008, 2007, 2005, 2004, 2003, 2002, 1999",False,2010,False,False,False,False,False,True,False,False,False,False,False,False,12,1,True
+Prairie Island Indian Community in the State of Minnesota,True,"2018, 2010",False,,False,False,False,False,False,True,False,False,False,False,False,False,2,0,True
+Kiowa Tribe of Oklahoma,True,"2018, 1999, 1998",False,,False,False,False,False,False,True,False,False,False,False,False,False,3,0,True
 Coquille Indian Tribe,True,"2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,19,0,True
-Meskwaki Nation,True,"2017, 2011, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
-St. Croix Chippewa Indians of Wisconsin,True,"2017, 2015",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
-Native Village of Mary's Igloo,True,"2017, 2016, 2011, 2010, 2009",False,,False,False,False,False,False,False,False,False,False,False,False,False,5,0,True
-Confederated Tribes of Siletz,True,"2017, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,15,0,True
-Gila River Indian Community,True,"2017, 2016, 2014, 2013, 2012, 2010, 2003, 2001, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,9,0,True
-Yurok Tribe,True,"2017, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2002, 2001",False,False,False,False,False,False,False,False,False,False,False,False,18,2,True
-Native Village of Teller,True,2017,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
+Cabazon Band of Mission Indians,True,"2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006",False,,False,False,False,False,False,False,False,False,False,False,False,False,12,0,True
+Washoe Tribe of Nevada & California,True,"2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2003, 2002, 2001, 1999, 1998",False,"2011, 2002",False,False,False,False,False,False,False,False,False,False,False,False,16,2,True
 Seminole Nation of Oklahoma,True,"2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2002, 2001, 1999, 1998",False,2017,False,False,False,False,False,False,False,False,False,False,False,False,15,1,True
 Hoonah Tribe Association,True,"2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,18,0,True
-Cabazon Band of Mission Indians,True,"2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006",False,,False,False,False,False,False,False,False,False,False,False,False,False,12,0,True
-Kenaitze Indian Tribe IRA,True,"2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2005, 2004, 2001",False,,False,False,False,False,False,False,False,False,False,False,False,False,13,0,True
+Osage Nation,True,"2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2006, 2005, 2004, 2002, 2001, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,16,0,True
+Yavapai Apache Nation,True,"2017, 2016, 2015, 2014, 2013, 2012, 2011",False,,False,False,False,False,False,False,False,False,False,False,False,False,7,0,True
+Gila River Indian Community,True,"2017, 2016, 2014, 2013, 2012, 2010, 2003, 2001, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,9,0,True
+Upper Skagit Indian Tribe,True,"2017, 2016, 2013, 2012, 2011, 2010, 2009, 2007, 2006, 2005, 2004, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,12,0,True
+Native Village of Mary's Igloo,True,"2017, 2016, 2011, 2010, 2009",False,,False,False,False,False,False,False,False,False,False,False,False,False,5,0,True
+Yurok Tribe,True,"2017, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2002, 2001",False,False,False,False,False,False,False,False,False,False,False,False,18,2,True
+St. Croix Chippewa Indians of Wisconsin,True,"2017, 2015",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
+Confederated Tribes of Siletz,True,"2017, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,15,0,True
+Meskwaki Nation,True,"2017, 2011, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
+Selawik IRA Council,True,"2017, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,4,0,True
+Little River Band of Ottawa Indians,True,"2017, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
+Native Village of Teller,True,2017,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
 Mooretown Rancheria,True,"2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2004, 2002, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,14,0,True
-Shageluk Native Village (IRA),True,"2016, 2013, 2012, 2011, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,14,0,True
-Holy Cross Village Council Holy Cross Tribe,True,"2016, 2015, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,17,0,True
-Leech Lake Band of Ojibwe,True,"2016, 2015",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
-Torres-Martinez Desert Cahuilla Tribe,True,"2016, 2015, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2008, 2003",False,False,False,False,False,False,False,False,False,False,False,False,17,2,True
-Minnesota Chippewa Tribe/Leech Lake Band,True,"2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2006, 2005, 2004, 2003, 2002, 1998",False,"2013, 2010, 2002",False,False,False,False,False,False,False,False,False,False,False,False,14,3,True
-Anvik Traditional Council,True,"2016, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,14,0,True
+Kenaitze Indian Tribe IRA,True,"2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2005, 2004, 2001",False,,False,False,False,False,False,False,False,False,False,False,False,False,13,0,True
 Robinson Rancheria Citizens Council,True,"2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,17,0,True
+Minnesota Chippewa Tribe/Leech Lake Band,True,"2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2006, 2005, 2004, 2003, 2002, 1998",False,"2013, 2010, 2002",False,False,False,False,False,False,False,False,False,False,False,False,14,3,True
+Santee Sioux Nation,True,"2016, 2015, 2014, 2009, 2008, 2007, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,8,0,True
+Holy Cross Village Council Holy Cross Tribe,True,"2016, 2015, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,17,0,True
+Torres-Martinez Desert Cahuilla Tribe,True,"2016, 2015, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2008, 2003",False,False,False,False,False,False,False,False,False,False,False,False,17,2,True
+Nikolai Edzeno Village Council,True,"2016, 2015, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002",False,,False,False,False,False,False,False,False,False,False,False,False,False,14,0,True
+Leech Lake Band of Ojibwe,True,"2016, 2015",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
+Shageluk Native Village (IRA),True,"2016, 2013, 2012, 2011, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,14,0,True
+Anvik Traditional Council,True,"2016, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,14,0,True
 Jicarilla Apache Tribe,True,"2016, 2006, 2004, 2002, 2001",False,,False,False,False,False,False,False,False,False,False,False,False,False,5,0,True
 Native Village of Kluti Kaah,True,2016,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
-Nikolai Edzeno Village Council,True,"2016, 2015, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002",False,,False,False,False,False,False,False,False,False,False,False,False,False,14,0,True
-Santee Sioux Nation,True,"2016, 2015, 2014, 2009, 2008, 2007, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,8,0,True
-Native Village of Kotzebue,True,"2015, 2014, 2009, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,12,0,True
-Iowa Tribe of Kansas & Nebraska,True,2015,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
+Suquamish Indian Tribe of the Port Madison Reservation,True,"2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2003, 2002",False,2013,False,False,False,False,False,False,False,False,False,False,False,False,13,1,True
 Ahtna Incorporated,True,"2015, 2014, 2013, 2012, 2011, 2010, 2009",False,2009,False,False,False,False,False,False,False,False,False,False,False,False,7,1,True
 Soboba Band of Luiseno Indians,True,"2015, 2014, 2013, 2012, 2011, 2010, 2006, 2002, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,10,0,True
+Quechan Indian Tribe,True,"2015, 2014, 2013, 2012, 2006, 2005, 2004, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,9,0,True
 Lower Sioux Community Council,True,"2015, 2014, 2013",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
+Native Village of Kotzebue,True,"2015, 2014, 2009, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,12,0,True
 Wiyot Tribe,True,"2015, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,2001,False,False,False,False,False,False,False,False,False,False,False,False,15,1,True
-Suquamish Indian Tribe of the Port Madison Reservation,True,"2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2003, 2002",False,2013,False,False,False,False,False,False,False,False,False,False,False,False,13,1,True
+Otoe-Missouria Tribe of Indians,True,"2015, 2011, 2010, 2009, 2004, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,9,0,True
 Thlopthlocco Tribal Town,True,"2015, 2009, 2008, 2007, 2006, 2005, 2002",False,,False,False,False,False,False,False,False,False,False,False,False,False,7,0,True
 Alabama-Quassarte Tribal Town,True,"2015, 2006, 2005, 2003, 2002",False,,False,False,False,False,False,False,False,False,False,False,False,False,5,0,True
-Otoe-Missouria Tribe of Indians,True,"2015, 2011, 2010, 2009, 2004, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,9,0,True
-Quechan Indian Tribe,True,"2015, 2014, 2013, 2012, 2006, 2005, 2004, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,9,0,True
+Iowa Tribe of Kansas & Nebraska,True,2015,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
+Mashantucket Pequot Tribal Nation,True,"2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,14,0,True
+Saint Regis Mohawk Tribe,True,"2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,13,0,True
+Chickasaw Nation,True,"2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2005, 2003, 2002, 2001, 1999",False,"2012, 1999",False,False,False,False,False,False,False,False,False,False,False,False,13,2,True
+Scammon Bay Traditional Council,True,"2014, 2013, 2012, 2011, 2010, 2009, 2008, 2006, 2005, 2003, 2002, 2001",False,,False,False,False,False,False,False,False,False,False,False,False,False,12,0,True
+Paiute Indian Tribe of Utah,True,"2014, 2013, 2012, 2011, 2010, 2009, 2007, 2006, 2005, 2004, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,14,0,True
+Duckwater Shoshone Tribe,True,"2014, 2013, 2012, 2011, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,14,0,True
+Spokane Tribe of Indians,True,"2014, 2013, 2012, 2011, 2008, 2007, 2006, 2005, 2004, 2003, 2002",False,2007,False,False,False,False,False,False,False,False,False,False,False,False,11,1,True
+Mesa Grande Band of Digueno Mission Indians,True,"2014, 2013, 2012, 2010, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,12,0,True
+Shoonaq' Tribe of Kodiak,True,"2014, 2013, 2012, 2009",False,2013,False,False,False,False,False,False,False,False,False,False,False,False,4,1,True
 Native Village of Koyuk,True,"2014, 2013, 2012",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
 Native Village of Council,True,"2014, 2013, 2012",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
-Paiute Indian Tribe of Utah,True,"2014, 2013, 2012, 2011, 2010, 2009, 2007, 2006, 2005, 2004, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,14,0,True
-Mashantucket Pequot Tribal Nation,True,"2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,14,0,True
-Mississippi Band of Choctaw Indians,True,"2014, 2010, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
 Scotts Valley Band of Pomo Indians,True,"2014, 2013, 2012",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
-Tule River Tribal Council,True,2014,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
-Mesa Grande Band of Digueno Mission Indians,True,"2014, 2013, 2012, 2010, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,12,0,True
-Duckwater Shoshone Tribe,True,"2014, 2013, 2012, 2011, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,14,0,True
-Alturas Indian Rancheria,True,2014,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
-Spokane Tribe of Indians,True,"2014, 2013, 2012, 2011, 2008, 2007, 2006, 2005, 2004, 2003, 2002",False,2007,False,False,False,False,False,False,False,False,False,False,False,False,11,1,True
-Scammon Bay Traditional Council,True,"2014, 2013, 2012, 2011, 2010, 2009, 2008, 2006, 2005, 2003, 2002, 2001",False,,False,False,False,False,False,False,False,False,False,False,False,False,12,0,True
-Chickasaw Nation,True,"2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2005, 2003, 2002, 2001, 1999",False,"2012, 1999",False,False,False,False,False,False,False,False,False,False,False,False,13,2,True
 Nottawaseppi Huron Band of Potawatomi,True,"2014, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,12,0,True
-Shoonaq' Tribe of Kodiak,True,"2014, 2013, 2012, 2009",False,2013,False,False,False,False,False,False,False,False,False,False,False,False,4,1,True
-Saint Regis Mohawk Tribe,True,"2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,13,0,True
-Grayling IRA Council,True,"2013, 2012, 2011, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,12,0,True
-Upper Lake Band of Pomo Indians of Upper Lake Rancheria of California,True,2013,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
-Ketchikan Indian Corporation,True,"2013, 2012, 2004, 2003, 2002, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,6,0,True
+Mississippi Band of Choctaw Indians,True,"2014, 2010, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
+Tule River Tribal Council,True,2014,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
+Alturas Indian Rancheria,True,2014,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
 Pribilof Islands/St. George Island,True,"2013, 2012, 2011, 2010, 2009, 2007, 2005",False,,False,False,False,False,False,False,False,False,False,False,False,False,7,0,True
+Grayling IRA Council,True,"2013, 2012, 2011, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,12,0,True
 Native Village of Fort Yukon,True,"2013, 2012, 2005, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,4,0,True
-Lime Village,True,"2012, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,13,0,True
-Flandreau Santee Sioux Tribe,True,"2012, 2011, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,6,0,True
-Santa Ysabel Band of Diegueno Mission Indians of the Santa Ysabel Reservation,True,"2012, 2007",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
+Ketchikan Indian Corporation,True,"2013, 2012, 2004, 2003, 2002, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,6,0,True
+Upper Lake Band of Pomo Indians of Upper Lake Rancheria of California,True,2013,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
 Native Village of Nanwalek,True,"2012, 2011, 2010, 2009, 2008",False,,False,False,False,False,False,False,False,False,False,False,False,False,5,0,True
-Pueblo of Sandia,True,"2011, 2007, 2004, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,7,0,True
-Leisnoi Village (aka Woody Island)-Leisnoi,True,"2011, 2007, 2006, 2005",False,,False,False,False,False,False,False,False,False,False,False,False,False,4,0,True
+Flandreau Santee Sioux Tribe,True,"2012, 2011, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,6,0,True
+Lime Village,True,"2012, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,13,0,True
+Santa Ysabel Band of Diegueno Mission Indians of the Santa Ysabel Reservation,True,"2012, 2007",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
 Naknek Native Village,True,"2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002",False,,False,False,False,False,False,False,False,False,False,False,False,False,10,0,True
-Cherokee Nation,True,"2011, 2010, 1999",False,2010,False,False,False,False,False,False,False,False,False,False,False,False,3,1,True
-Quileute Tribe of the Quileute Reservation,True,2011,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
 Ute Indian Tribe,True,"2011, 2010, 2007, 2005, 2004, 2002, 2001, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,8,0,True
-Tatitlek Village IRA Council,True,"2010, 2008, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
+Cherokee Nation,True,"2011, 2010, 1999",False,2010,False,False,False,False,False,False,False,False,False,False,False,False,3,1,True
+Leisnoi Village (aka Woody Island)-Leisnoi,True,"2011, 2007, 2006, 2005",False,,False,False,False,False,False,False,False,False,False,False,False,False,4,0,True
+Pueblo of Sandia,True,"2011, 2007, 2004, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,7,0,True
+Quileute Tribe of the Quileute Reservation,True,2011,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
+Death Valley Timbi-sha Shoshone Band,True,"2010, 2009, 2008, 2007, 2002",False,,False,False,False,False,False,False,False,False,False,False,False,False,5,0,True
 Pit River Tribe of Californina,True,"2010, 2009, 2008, 2002",False,,False,False,False,False,False,False,False,False,False,False,False,False,4,0,True
 Native Village of Chuathbaluk,True,"2010, 2009, 2007, 2003, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,8,0,True
+Tatitlek Village IRA Council,True,"2010, 2008, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
 Northern Arapaho Tribe - Wind River Reservation,True,"2010, 2007, 2002",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
 Native Village of Kipnuk,True,2010,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
-Death Valley Timbi-sha Shoshone Band,True,"2010, 2009, 2008, 2007, 2002",False,,False,False,False,False,False,False,False,False,False,False,False,False,5,0,True
+Asa'carsarmiut Tribal Council,True,"2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,10,0,True
+Takotna Tribal Council,True,"2009, 2008, 2007, 2006, 2004, 2003, 2002, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,9,0,True
+Confederated Tribes of the Goshute Res.,True,"2009, 2008, 2006, 2005, 2004, 2002, 2001",False,,False,False,False,False,False,False,False,False,False,False,False,False,7,0,True
+Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas,True,"2009, 2008",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
 Omaha Tribe,True,"2009, 2007, 2003, 2002, 2001",False,2009,False,False,False,False,False,False,False,False,False,False,False,False,5,1,True
 Pueblo of Nambe,True,"2009, 2007",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
-Takotna Tribal Council,True,"2009, 2008, 2007, 2006, 2004, 2003, 2002, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,9,0,True
-Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas,True,"2009, 2008",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
-Asa'carsarmiut Tribal Council,True,"2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,10,0,True
-Confederated Tribes of the Goshute Res.,True,"2009, 2008, 2006, 2005, 2004, 2002, 2001",False,,False,False,False,False,False,False,False,False,False,False,False,False,7,0,True
 Elem Indian Colony of Pomo Indians of Sulphur Bank Rancheria,True,2009,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
-Shawnee Tribe,True,"2008, 2007",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
-Northway Village Council,True,"2008, 2007, 2005, 2002, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,5,0,True
 Knik Tribal Council,True,"2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,10,0,True
+Northway Village Council,True,"2008, 2007, 2005, 2002, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,5,0,True
+Shawnee Tribe,True,"2008, 2007",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
 Pilot Point Traditional Council,True,"2008, 2006, 2005, 2003, 2002, 2001, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,7,0,True
 Round Valley Indian Tribes,True,"2008, 2006, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,5,0,True
-Village of Old Harbor,True,"2007, 2005",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
-Minnesota Chippewa Tribe/Grand Portage Band,True,2007,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
 Klamath Tribes,True,"2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,9,0,True
-Village of Bill Moore's Slough,True,"2007, 2006, 2005, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,4,0,True
-Village of Kotlik,True,"2007, 2006, 2004, 2003, 2001",False,,False,False,False,False,False,False,False,False,False,False,False,False,5,0,True
-Native Village of Chitina,True,"2007, 2005",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
 Rosebud Sioux Tribe,True,"2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2005, 2002",False,False,False,False,False,False,False,False,False,False,False,False,9,2,True
 Native Village of White Mountain,True,"2007, 2006, 2005, 2004, 2002",False,,False,False,False,False,False,False,False,False,False,False,False,False,5,0,True
-Native Village of Port Heiden,True,"2007, 2005, 2004, 2003",False,,False,False,False,False,False,False,False,False,False,False,False,False,4,0,True
+Village of Bill Moore's Slough,True,"2007, 2006, 2005, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,4,0,True
 Deering Native Village,True,"2007, 2006, 2004, 2003, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,8,0,True
-Newhalen Tribal Council,True,"2007, 2003, 2002, 2001, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,5,0,True
+Village of Kotlik,True,"2007, 2006, 2004, 2003, 2001",False,,False,False,False,False,False,False,False,False,False,False,False,False,5,0,True
+Native Village of Port Heiden,True,"2007, 2005, 2004, 2003",False,,False,False,False,False,False,False,False,False,False,False,False,False,4,0,True
+Village of Old Harbor,True,"2007, 2005",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
+Native Village of Chitina,True,"2007, 2005",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
 Native Village of Larsen Bay,True,"2007, 2005",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
-Native Village of Georgetown,True,2006,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
-Native Village of Elim,True,"2006, 2005, 2004, 2003, 2002, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,6,0,True
+Newhalen Tribal Council,True,"2007, 2003, 2002, 2001, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,5,0,True
+Minnesota Chippewa Tribe/Grand Portage Band,True,2007,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
 Chugach Alaska Corp.,True,"2006, 2005, 2004, 2003, 2002, 2001, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,7,0,True
+Native Village of Elim,True,"2006, 2005, 2004, 2003, 2002, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,6,0,True
 Chuloonawick Native Village,True,"2006, 2005, 2004, 2001",False,,False,False,False,False,False,False,False,False,False,False,False,False,4,0,True
-Akiachak Native Community,True,2006,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
 Tulalip Tribes of Washington,True,"2006, 2005, 2004",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
+Akutan Traditional Council,True,"2006, 2005, 2004",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
+Three Affiliated Tribes,True,"2006, 2005, 2002, 2001, 1999, 1998",False,"2005, 1999",False,False,False,False,False,False,False,False,False,False,False,False,6,2,True
+Native Village of Georgetown,True,2006,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
+Akiachak Native Community,True,2006,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
 Resighini Rancheria,True,2006,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
 San Manual Band of Serrano Mission Indians of the San Manual Reservation,True,2006,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
 Kickapoo Tribe of Oklahoma,True,2006,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
-Three Affiliated Tribes,True,"2006, 2005, 2002, 2001, 1999, 1998",False,"2005, 1999",False,False,False,False,False,False,False,False,False,False,False,False,6,2,True
-Akutan Traditional Council,True,"2006, 2005, 2004",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
-formerly Native Village of Sheldon's Point,True,"2005, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
+Lone Pine Band of Paiute Shoshone,True,"2005, 2004, 2002",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
 Pueblo of Taos,True,"2005, 2004",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
+Navajo Nation,True,"2005, 2003, 2002, 2001, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,5,0,True
 Snoqualmie Tribe,True,"2005, 2002",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
 Pilot Station Traditional Village,True,"2005, 2001, 1999, 1998",False,1999,False,False,False,False,False,False,False,False,False,False,False,False,4,1,True
-Lone Pine Band of Paiute Shoshone,True,"2005, 2004, 2002",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
+formerly Native Village of Sheldon's Point,True,"2005, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
 Native Village of Akhiok,True,2005,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
-Navajo Nation,True,"2005, 2003, 2002, 2001, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,5,0,True
 Native Village of Kwinhagak,True,2005,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
 Muckleshoot Indian Tribe,True,"2004, 2003, 2002, 2001, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,5,0,True
-Te-Moak Tribe / Battle Mountain Band,True,"2004, 2002, 2001, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,4,0,True
+Jamul Indian Village,True,"2004, 2003, 2002",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
 Native Village of Tazlina,True,"2004, 2003",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
+Te-Moak Tribe / Battle Mountain Band,True,"2004, 2002, 2001, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,4,0,True
 Klawock Cooperative Association,True,"2004, 2002, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,4,0,True
 Lower Brule Sioux Tribe,True,"2004, 2002, 1999, 1998",False,1999,False,False,False,False,False,False,False,False,False,False,False,False,4,1,True
-Jamul Indian Village,True,"2004, 2003, 2002",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
 Cortina Indian Rancheria of Wintun Indians,True,2004,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
-Salt River Pima-Maricopa Indian Community,True,"2003, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
+False Pass Tribal Council,True,"2003, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,5,0,True
 Redding Rancheria Tribal Council,True,"2003, 2002, 2001, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,4,0,True
 Kialegee Tribal Town of Oklahoma,True,"2003, 2002, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
+Salt River Pima-Maricopa Indian Community,True,"2003, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
 Native Village of St. Michael,True,2003,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
 Pueblo of Picuris,True,2003,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
-False Pass Tribal Council,True,"2003, 2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,5,0,True
-Skull Valley Band of Goshute Indians of UT,True,"2002, 2001",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
-Native Village of Goodnews Bay,True,"2002, 2001, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
-Las Vegas Paiute Tribe,True,"2002, 2001",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
-Alatna Village,True,2002,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
-Shoshone-Paiute Tribes,True,"2002, 2001",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
-Burns Pauite Tribe,True,"2002, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
 Big Lagoon Rancheria,True,"2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,4,0,True
 Metlakatla Indian Community,True,"2002, 2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,4,0,True
-Elko Band Council of the Te-Moak Tribes,True,2002,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
-Hughes Village Council,True,"2002, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
-Passamaquoddy Tribe,True,"2002, 2001",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
 Agua Caliente Band of Cahuilla Indians,True,"2002, 2001, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
+Native Village of Goodnews Bay,True,"2002, 2001, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
+Skull Valley Band of Goshute Indians of UT,True,"2002, 2001",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
+Las Vegas Paiute Tribe,True,"2002, 2001",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
+Shoshone-Paiute Tribes,True,"2002, 2001",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
+Passamaquoddy Tribe,True,"2002, 2001",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
+Hughes Village Council,True,"2002, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
+Burns Pauite Tribe,True,"2002, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
+Alatna Village,True,2002,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
+Elko Band Council of the Te-Moak Tribes,True,2002,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
+Chenega Bay IRA Council,True,"2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
+Chevak Traditional Council,True,"2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
+Alakanuk Traditional Council,True,"2001, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
+Native Village of Hooper Bay,True,"2001, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
+Native Village of Eek,True,"2001, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
+Havasupai Tribe,True,"2001, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
 Native Village of Nightmute,True,2001,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
 Narragansett Indian Tribe,True,2001,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
 Lovelock Paiute Tribe,True,2001,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
-Chenega Bay IRA Council,True,"2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
 Table Mountain Rancheria,True,2001,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
-Chevak Traditional Council,True,"2001, 1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,3,0,True
-Native Village of Hooper Bay,True,"2001, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
-Native Village of Eek,True,"2001, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
-Alakanuk Traditional Council,True,"2001, 1999",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
 Chefornak Native Village,True,2001,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
-Havasupai Tribe,True,"2001, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
 Iqurmiut Traditional Council,True,2001,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
 Tuluksak Native Community,True,2001,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
+Mentasta Traditional Council,True,"1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
+Huslia Tribal Council,True,"1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
+Egegik Village Council,True,"1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
 Koyukuk Tribal Council,True,1999,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
 Douglas Indian Association,True,1999,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
 Algaaciq Native Village,True,1999,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
@@ -424,9 +404,6 @@ Allakaket Tribal Council,True,1999,False,,False,False,False,False,False,False,Fa
 New Koliganek Village Council,True,1999,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
 Sitnasuak Native Corporation,True,1999,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
 ALU LIKE,True,1999,False,"2002, 2000, 1999",False,False,False,False,False,False,False,False,False,False,False,False,1,3,True
-Mentasta Traditional Council,True,"1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
-Huslia Tribal Council,True,"1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
-Egegik Village Council,True,"1999, 1998",False,,False,False,False,False,False,False,False,False,False,False,False,False,2,0,True
 Cold Springs Rancheria of Mono Indians,True,1999,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
 Cahuilla Band of Indians,True,1999,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
 Native Village of Gambell,True,1998,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
@@ -443,3 +420,26 @@ Lytton Rancheria,True,1998,False,,False,False,False,False,False,False,False,Fals
 Village of Lower Kalskag,True,1998,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
 Native Village of Kongiganak,True,1998,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
 Native Village of Mekoryuk,True,1998,False,,False,False,False,False,False,False,False,False,False,False,False,False,1,0,True
+Keweenaw Bay Indian Community,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2022, 2020, 2017, 2015, 2012, 2010, 2008, 2003, 2002",False,True,True,True,True,True,False,True,False,True,False,False,24,9,False
+Makah Indian Tribe,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001",False,"2022, 2020, 2018, 2016, 2014, 2013, 2010, 2009, 2008, 2005",False,True,True,True,True,True,False,True,False,True,False,True,22,10,False
+Choctaw Nation of Oklahoma,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999",False,"2022, 2019",False,True,True,True,True,True,False,True,False,False,True,False,22,2,False
+Chippewa Cree Tribe,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2003, 2002, 2001, 1999, 1998",False,"2022, 2021, 2020, 2019, 2018, 2017, 2014, 2012, 2009, 2007, 2002, 1999",False,True,True,True,True,True,False,True,True,True,True,True,23,12,False
+Karuk Tribe,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2005, 2004, 2003, 2002, 2001, 1999",False,"2022, 2019, 2016, 2012, 2010",False,True,True,True,True,True,False,True,False,False,True,False,22,5,False
+Fort Sill Apache Tribe,True,"2022, 2021, 2020, 2019, 2018, 2017, 2016, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 1999, 1998",False,"2022, 2020, 2018",False,True,True,True,True,True,False,True,False,True,False,True,17,3,False
+Organized Village of Kake,True,"2022, 2021, 2020, 2019, 2018, 2016, 2013, 2012",False,"2022, 2018",False,True,True,True,True,True,False,True,False,False,False,True,8,2,False
+United Keetoowah Band of Cherokee Indians,True,"2022, 2021, 2020, 2019, 2018, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2004, 1999, 1998",False,"2022, 2020",False,True,True,True,True,True,False,True,False,True,False,False,16,2,False
+Citizen Potawatomi Nation,True,"2022, 2021, 2020, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2002, 2001, 1999, 1998",False,"2022, 2019",False,True,True,True,True,False,False,True,False,False,True,False,22,2,False
+Fairbanks Native Association,True,"2022, 2021, 2020, 2019",False,2022,False,True,True,True,True,False,False,True,False,False,False,False,4,1,False
+Huna Totem Corporation,True,"2022, 2021, 2020, 2018, 2017, 2016, 2013, 2012, 2011, 2009, 2008, 2004, 2003, 2002",False,"2022, 2020, 2018, 2016",False,True,True,True,False,True,False,True,False,True,False,True,14,4,False
+San Pasqual Band of Mission Indians,True,"2022, 2020, 2016, 2015, 2014, 2013, 2012, 2010",False,"2022, 2020",False,True,False,True,False,False,False,True,False,True,False,False,8,2,False
+Grand Traverse Band of Ottawa and Chippewa Indians,True,"2022, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2022, 2019, 2017, 2005",False,True,False,False,True,True,False,True,False,False,True,False,22,4,False
+Yavapai-Prescott Indian Tribe,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,2022,False,False,True,True,True,True,False,True,False,False,False,False,23,1,False
+Santa Clara Pueblo,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2022, 2020, 2018, 2015, 2013, 2011, 2009, 2008, 2006, 2004, 2002, 2001, 1999",False,False,True,True,True,True,False,True,False,True,False,True,23,13,False
+Yerington Paiute Tribe,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999",False,"2022, 2019, 2008",False,False,True,True,True,True,False,True,False,False,True,False,21,3,False
+Port Graham Village Council,True,"2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 1998",False,"2022, 2012",False,False,True,True,True,True,False,True,False,False,False,False,15,2,False
+Barona Band of Mission Indians,True,"2021, 2020, 2019, 2018, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,2022,False,False,True,True,True,True,False,True,False,False,False,False,22,1,False
+Confederated Tribes of the Grand Ronde Community of Oregon,True,"2021, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2003, 2002, 1998",False,"2022, 2003",False,False,True,False,True,True,False,True,False,False,False,False,19,2,False
+Pauma Band of Mission Indians,True,"2021, 2019, 2018, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 1999, 1998",False,"2022, 2018, 2005, 2003",False,False,True,False,True,True,False,True,False,False,False,True,20,4,False
+Pawnee Nation of Oklahoma,True,"2021, 2015, 2014, 2013, 2011, 2010, 2009, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2022, 2021",False,False,True,False,False,False,False,True,True,False,False,False,16,2,False
+Northern Cheyenne Tribe,True,"2020, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 1999, 1998",False,"2022, 1999",False,False,False,True,False,False,False,True,False,False,False,False,19,2,False
+Tunica-Biloxi Tribe of Louisiana,True,"2020, 2017, 2016, 2015, 2014, 2013, 2012, 2008, 2007, 2006, 2005, 2003, 2002, 2001, 1999, 1998",False,2022,False,False,False,True,False,False,False,True,False,False,False,False,16,1,False
