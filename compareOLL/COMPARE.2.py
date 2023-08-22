@@ -4,6 +4,7 @@ import os
 import csv
 from dataclasses import dataclass, astuple
 
+# Data class to represent a tribe's information
 @dataclass
 class Tribe():
     name: str = ''
@@ -47,7 +48,6 @@ def export_to_csv(data, file_name):
     except IOError as e:
         print(f"Error while exporting to '{file_name}': {e}")
 
-
 def importCSV(path):
     """
     Import a CSV file to a Dict.
@@ -64,54 +64,72 @@ def importCSV(path):
 
 def establishClass(totalTribes, data, basicOenhanced):
     """
-    Organize basic and enhanced
+    Organize basic and enhanced grant information for each tribe.
+
+    Parameters:
+        totalTribes (dict): Dictionary containing all unique tribes.
+        data (dict): Data imported from a CSV file.
+        basicOenhanced (str): 'basic' or 'enhanced' to indicate the type of grant.
 
     Returns:
-        data (dict) = Dictionary of all unique tribes .
+        totalTribes (dict): Updated dictionary of tribes with grant information.
     """
     for row in data:
-        print(row) #debugging
         currLib = totalTribes.setdefault(row['Institution'], Tribe(name=row['Institution']))
-        #tracking basicApplied, enhancedApplied
+        # Track basicApplied, enhancedApplied
         setattr(currLib, basicOenhanced + 'Applied', True)
-        #tracking basicYears and enhancedYears
-        if(getattr(currLib, basicOenhanced + 'Years') == ""):
+        # Track basicYears and enhancedYears
+        if getattr(currLib, basicOenhanced + 'Years') == "":
             setattr(currLib, basicOenhanced + 'Years', row['Fiscal Year'])
-        elif(row['Fiscal Year'] not in getattr(currLib, basicOenhanced + 'Years')):
+        elif row['Fiscal Year'] not in getattr(currLib, basicOenhanced + 'Years'):
             setattr(currLib, basicOenhanced + 'Years', getattr(currLib, basicOenhanced + 'Years') + ', ' + row['Fiscal Year'])
-        #tracking specific years for the past six years
-        if(row['Fiscal Year'] in ('2023', '2022', '2021', '2020', '2019', '2018')):
+        # Track specific years for the past six years
+        if row['Fiscal Year'] in ('2023', '2022', '2021', '2020', '2019', '2018'):
             setattr(currLib, basicOenhanced + row['Fiscal Year'], True)
-        #tracking canApplyEnhanced2023
-        if('2022' in getattr(currLib, 'enhancedYears')):
+        # Track canApplyEnhanced2023
+        if '2022' in getattr(currLib, 'enhancedYears'):
             setattr(currLib, 'canApplyEnhanced2023', False)
-        #tracking numBasicYearsApplied and numEnhancedYearsApplied
+        # Track numBasicYearsApplied and numEnhancedYearsApplied
         setattr(currLib, 'numBasicYearsApplied', len(getattr(currLib, 'basicYears').split()))
         setattr(currLib, 'numEnhancedYearsApplied', len(getattr(currLib, 'enhancedYears').split()))
     return totalTribes
 
 def organize(tribes):
-    #make a list of tuples, each tribe is one row
+    """
+    Organize and sort tribe data for exporting.
+
+    Parameters:
+        tribes (dict): Dictionary containing tribe information.
+
+    Returns:
+        list (list): List of tuples representing sorted tribe information.
+    """
+    # Create a list of tuples, each tribe is one row
     list = []
     for tribe in tribes:
         list.append(astuple(tribes[tribe]))
-    #sort the tribes by basic2022, then basic2021, then basic2020, then whether they applied to 
+    # Sort the tribes by canApplyEnhanced2023, then basicYears, then enhancedYears
     list = sorted(list, key=lambda tribe: (tribe[19], tribe[2], tribe[4]), reverse=True)
     return list
 
+# Initialize dictionary to store tribe data
 tribes = {}
 
+# Import basic grant data from CSV
 basic = importCSV(r"C:\Users\Slewe\OneDrive - UW-Madison\Open Law Library Fellowship\IMLS Grant Comparison\basicGrants.csv")
-print(basic)
 
+# Import enhanced grant data from CSV
 enhanced = importCSV(r"C:\Users\Slewe\OneDrive - UW-Madison\Open Law Library Fellowship\IMLS Grant Comparison\EnhancementGrants.csv")
-print(enhanced)
 
+# Organize basic grant information
 tribes = establishClass(tribes, basic, 'basic')
-tribes = establishClass(tribes, enhanced, 'enhanced')
-print(len(tribes))
 
+# Organize enhanced grant information
+tribes = establishClass(tribes, enhanced, 'enhanced')
+
+# Organize and sort tribe data
 tribes = organize(tribes)
 
+# Insert headers and export sorted tribe data to CSV
 tribes.insert(0, ('Tribe Name', 'Applied to Basic Grant?', 'Years applied to Basic Grant', 'Applied to Enhancement Grant?', 'Years applied to Enhancement Grant', '2023 Basic Grant', '2022 Basic Grant', '2021 Basic Grant', '2020 Basic Grant', '2019 Basic Grant', '2018 Basic Grant', '2023 Enhancement Grant', '2022 Enhancement Grant', '2021 Enhancement Grant', '2020 Enhancement Grant', '2019 Enhancement Grant', '2018 Enhancement Grant', '# of Applications to Basic Grant', '# of Applications to Enhancement Grant', 'Can Apply in 2023'))
 export_to_csv(tribes, "sorted_tribes.csv")
