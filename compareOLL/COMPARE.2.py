@@ -6,26 +6,26 @@ from dataclasses import dataclass, astuple
 
 @dataclass
 class Tribe():
-    name: str
-    basicApplied: bool
-    basicYears: str
-    enhancedApplied: bool
-    enhancedYears: str
-    basic2023: bool
-    basic2022: bool
-    basic2021: bool
-    basic2020: bool
-    basic2019: bool
-    basic2018: bool
-    enhanced2023: bool
-    enhanced2022: bool
-    enhanced2021: bool
-    enhanced2020: bool
-    enhanced2019: bool
-    enhanced2018: bool
-    numBasicYearsApplied: int
-    numEnhancedYearsApplied: int
-    canApplyEnhanced: bool
+    name: str = ''
+    basicApplied: bool = False
+    basicYears: str = ''
+    enhancedApplied: bool = False
+    enhancedYears: str = ''
+    basic2023: bool = False
+    basic2022: bool = False
+    basic2021: bool = False
+    basic2020: bool = False
+    basic2019: bool = False
+    basic2018: bool = False
+    enhanced2023: bool = False
+    enhanced2022: bool = False
+    enhanced2021: bool = False
+    enhanced2020: bool = False
+    enhanced2019: bool = False
+    enhanced2018: bool = False
+    numBasicYearsApplied: int = 0
+    numEnhancedYearsApplied: int = 0
+    canApplyEnhanced2023: bool = True
 
 def export_to_csv(data, file_name):
     """
@@ -62,107 +62,33 @@ def importCSV(path):
     csv_reader = csv.DictReader(csvfile)
     return csv_reader
 
-def establishClass(basic, enhanced):
+def establishClass(totalTribes, data, basicOenhanced):
     """
     Organize basic and enhanced
 
     Returns:
-        data (dict) = Dictionary of all unique tribes, with aggregated years.
+        data (dict) = Dictionary of all unique tribes .
     """
-    data = {}
-    print(basic)
-    for row in basic:
-        currLib = data.setdefault(row['Institution'], Tribe(name="" + row['Institution'], 
-                                                          basicApplied=True, 
-                                                          basicYears=""+row['Fiscal Year'],
-                                                          enhancedApplied=False,
-                                                          enhancedYears="",
-                                                          basic2023=False,
-                                                          basic2022=False,
-                                                          basic2021=False,
-                                                          basic2020=False,
-                                                          basic2019=False,
-                                                          basic2018=False,
-                                                          enhanced2023=False,
-                                                          enhanced2022=False,
-                                                          enhanced2021=False,
-                                                          enhanced2020=False,
-                                                          enhanced2019=False,
-                                                          enhanced2018=False,
-                                                          numBasicYearsApplied=0,
-                                                          numEnhancedYearsApplied=0,
-                                                          canApplyEnhanced=False))
-        #tracking years applied to basic 
-        if(row['Fiscal Year'] not in currLib.basicYears):
-            currLib.basicYears = currLib.basicYears + ', ' + row['Fiscal Year']
-        #tracking specific years
-        if('2023' in currLib.basicYears):
-            currLib.basic2023 = True
-        if('2022' in currLib.basicYears):
-            currLib.basic2022 = True
-        if('2021' in currLib.basicYears):
-            currLib.basic2021 = True
-        if('2020' in currLib.basicYears):
-            currLib.basic2020 = True
-        if('2019' in currLib.basicYears):
-            currLib.basic2019 = True
-        if('2018' in currLib.basicYears):
-            currLib.basic2018 = True
-        #add currLib to new library: data
-        data[currLib.name] = currLib
-        #debug
-        print(data[currLib.name])
-    #adding enhanced library to data library
-    for row in enhanced:
-        currLib = data.setdefault(row['Institution'], Tribe(name="" + row['Institution'], 
-                                                          basicApplied= False, 
-                                                          basicYears="",
-                                                          enhancedApplied=False,
-                                                          enhancedYears=""+row['Fiscal Year'],
-                                                          basic2023=False,
-                                                          basic2022=False,
-                                                          basic2021=False,
-                                                          basic2020=False,
-                                                          basic2019=False,
-                                                          basic2018=False,
-                                                          enhanced2023=False,
-                                                          enhanced2022=False,
-                                                          enhanced2021=False,
-                                                          enhanced2020=False,
-                                                          enhanced2019=False,
-                                                          enhanced2018=False,
-                                                          numBasicYearsApplied=0,
-                                                          numEnhancedYearsApplied=0,
-                                                          canApplyEnhanced=False))
-        #tracking years applied to basic 
-        if("" == currLib.enhancedYears):
-            currLib.enhancedYears = row['Fiscal Year']
-        elif(row['Fiscal Year'] not in currLib.enhancedYears):
-            currLib.enhancedYears = currLib.enhancedYears + ', ' + row['Fiscal Year']
-        #tracking specific years
-        if('2023' in currLib.enhancedYears):
-            currLib.enhanced2023 = True
-        if('2022' in currLib.enhancedYears):
-            currLib.enhanced2022 = True
-        if('2021' in currLib.enhancedYears):
-            currLib.enhanced2021 = True
-        if('2020' in currLib.enhancedYears):
-            currLib.enhanced2020 = True
-        if('2019' in currLib.enhancedYears):
-            currLib.enhanced2019 = True
-        if('2018' in currLib.enhancedYears):
-            currLib.enhanced2018 = True
-        #add currLib to new library: data
-        data[currLib.name] = currLib
-        #debug
-        print(data[currLib.name])
-    
-    for tribe in data:
-        data[tribe].numBasicYearsApplied = len(data[tribe].basicYears.split())
-        data[tribe].numEnhancedYearsApplied = len(data[tribe].enhancedYears.split())
-        if(not data[tribe].enhanced2022):
-            data[tribe].canApplyEnhanced = True
-    return data
+    for row in data:
+        print(row) #debugging
+        currLib = totalTribes.setdefault(row['Institution'], Tribe(name=row['Institution']))
+        #tracking basicApplied, enhancedApplied
+        setattr(currLib, basicOenhanced + 'Applied', True)
+        #tracking basicYears and enhancedYears
+        if(getattr(currLib, basicOenhanced + 'Years') == ""):
+            setattr(currLib, basicOenhanced + 'Years', row['Fiscal Year'])
+        elif(row['Fiscal Year'] not in getattr(currLib, basicOenhanced + 'Years')):
+            setattr(currLib, basicOenhanced + 'Years', getattr(currLib, basicOenhanced + 'Years') + ', ' + row['Fiscal Year'])
+        #tracking specific years for the past six years
+        if(row['Fiscal Year'] in ('2023', '2022', '2021', '2020', '2019', '2018')):
+            setattr(currLib, basicOenhanced + row['Fiscal Year'], True)
+        #tracking canApplyEnhanced2023
+        if('2022' in getattr(currLib, 'enhancedYears')):
+            setattr(currLib, 'canApplyEnhanced2023', False)
+        #tracking numBasicYearsApplied and numEnhancedYearsApplied
+        setattr(currLib, 'numBasicYearsApplied', len(getattr(currLib, 'basicYears').split()))
+        setattr(currLib, 'numEnhancedYearsApplied', len(getattr(currLib, 'enhancedYears').split()))
+    return totalTribes
 
 def organize(tribes):
     #make a list of tuples, each tribe is one row
@@ -170,7 +96,7 @@ def organize(tribes):
     for tribe in tribes:
         list.append(astuple(tribes[tribe]))
     #sort the tribes by basic2022, then basic2021, then basic2020, then whether they applied to 
-    list = sorted(list, key=lambda tribe: (tribe[19], tribe[2]), reverse=True)
+    list = sorted(list, key=lambda tribe: (tribe[19], tribe[2], tribe[4]), reverse=True)
     return list
 
 tribes = {}
@@ -181,7 +107,8 @@ print(basic)
 enhanced = importCSV(r"C:\Users\Slewe\OneDrive - UW-Madison\Open Law Library Fellowship\IMLS Grant Comparison\EnhancementGrants.csv")
 print(enhanced)
 
-tribes = establishClass(basic, enhanced)
+tribes = establishClass(tribes, basic, 'basic')
+tribes = establishClass(tribes, enhanced, 'enhanced')
 print(len(tribes))
 
 tribes = organize(tribes)
