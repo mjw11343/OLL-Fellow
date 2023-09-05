@@ -1,8 +1,6 @@
-'''COMPARE
-'''
-import os
 import csv
 from dataclasses import dataclass, astuple
+from pathlib import Path
 
 # Data class to represent a tribe's information
 @dataclass
@@ -41,13 +39,19 @@ def export_to_csv(data: list[Tribe], file_name: str):
     """
     #conve
     try:
-        with open(file_name, 'w', newline='', encoding='utf-8-sig') as csvfile:
+        # Get the current working directory as a Path object
+        DIR = Path(__file__).parent
+
+        # Construct the full path to the CSV file in the current directory
+        full_path = DIR / file_name
+
+        with open(full_path, 'w', newline='', encoding='utf-8-sig') as csvfile:
             csv_writer = csv.writer(csvfile)
             for tribe in data:
                 csv_writer.writerow(astuple(tribe))
-        print(f"Data successfully exported to '{file_name}'.")
+        print(f"Data successfully exported to '{full_path}'.")
     except IOError as e:
-        print(f"Error while exporting to '{file_name}': {e}")
+        print(f"Error while exporting to '{full_path}': {e}")
 
 def import_csv(path: str) -> csv.DictReader:
     """
@@ -111,10 +115,13 @@ def organize(tribes_dict: dict[str, Tribe]) -> list[Tribe]:
 tribes = {}
 
 # Import basic grant data from CSV
-basic = import_csv(r"C:\Users\Slewe\OneDrive - UW-Madison\Open Law Library Fellowship\IMLS Grant Comparison\basicGrants.csv")
+DIR = Path(__file__).parent
+file_path = DIR / "basicGrants.csv"
+basic = import_csv(file_path)
 
 # Import enhanced grant data from CSV
-enhanced = import_csv(r"C:\Users\Slewe\OneDrive - UW-Madison\Open Law Library Fellowship\IMLS Grant Comparison\EnhancementGrants.csv")
+file_path = DIR / "EnhancementGrants.csv"
+enhanced = import_csv(file_path)
 
 # Organize basic grant information
 tribes = transform_dictreader_to_dict(tribes, basic, 'basic')
