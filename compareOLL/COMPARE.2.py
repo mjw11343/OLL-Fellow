@@ -24,7 +24,7 @@ class Tribe():
     enhanced_2018: bool = False
     num_basic_years_applied: int = 0
     num_enhanced_years_applied: int = 0
-    can_apply_enhanced_2023: bool = True
+    can_apply_enhanced_2024: bool = True
 
 def export_to_csv(data: list[Tribe], file_name: str):
     """
@@ -87,9 +87,9 @@ def transform_dictreader_to_dict(totalTribes: dict[str, Tribe], data: csv.DictRe
         if row['Fiscal Year'] not in getattr(currLib, basic_o_enhanced + '_years_applied'):
             setattr(currLib, basic_o_enhanced + '_years_applied', getattr(currLib, basic_o_enhanced + '_years_applied') + ' ' + row['Fiscal Year'])
             setattr(currLib, f'num_{basic_o_enhanced}_years_applied', getattr(currLib, f'num_{basic_o_enhanced}_years_applied') + 1)
-            #Tracking can_apply_enhanced_2023
-            if('2022' in getattr(currLib, 'enhanced_years_applied')):
-                setattr(currLib, 'can_apply_enhanced_2023', False)
+            #Tracking can_apply_enhanced_2024
+            if('2023' in getattr(currLib, 'enhanced_years_applied')):
+                setattr(currLib, 'can_apply_enhanced_2024', False)
             # Track specific years for the past six years
             if row['Fiscal Year'] in ('2023', '2022', '2021', '2020', '2019', '2018'):
                 setattr(currLib, basic_o_enhanced + "_" + row['Fiscal Year'], True)
@@ -108,7 +108,7 @@ def organize(tribes_dict: dict[str, Tribe]) -> list[Tribe]:
     #convert to list of tribes
     tribes_list = list(tribes_dict.values())
     #then sort tribes
-    tribes_list = sorted(tribes_list, key=lambda tribe: (tribe.can_apply_enhanced_2023, tribe.basic_years_applied), reverse=True)
+    tribes_list = sorted(tribes_list, key=lambda tribe: (tribe.can_apply_enhanced_2024, tribe.basic_years_applied), reverse=True)
     return tribes_list
 
 # Initialize dictionary to store tribe data
@@ -133,5 +133,5 @@ tribes = transform_dictreader_to_dict(tribes, enhanced, 'enhanced')
 tribes = organize(tribes)
 
 # Insert headers and export sorted tribe data to CSV
-tribes.insert(0, Tribe(name='Tribe Name', basic_applied='Applied to Basic Grant?', basic_years_applied='Years applied to Basic Grant', enhanced_applied='Applied to Enhancement Grant?', enhanced_years_applied='Years applied to Enhancement Grant', basic_2023='2023 Basic Grant', basic_2022='2022 Basic Grant', basic_2021='2021 Basic Grant', basic_2020='2020 Basic Grant', basic_2019='2019 Basic Grant', basic_2018='2018 Basic Grant', enhanced_2023='2023 Enhancement Grant', enhanced_2022='2022 Enhancement Grant', enhanced_2021='2021 Enhancement Grant', enhanced_2020='2020 Enhancement Grant', enhanced_2019='2019 Enhancement Grant', enhanced_2018='2018 Enhancement Grant', num_basic_years_applied='# of Applications to Basic Grant', num_enhanced_years_applied='# of Applications to Enhancement Grant', can_apply_enhanced_2023='Can Apply in 2023'))
+tribes.insert(0, Tribe(name='Tribe Name', basic_applied='Applied to Basic Grant?', basic_years_applied='Years applied to Basic Grant', enhanced_applied='Applied to Enhancement Grant?', enhanced_years_applied='Years applied to Enhancement Grant', basic_2023='2023 Basic Grant', basic_2022='2022 Basic Grant', basic_2021='2021 Basic Grant', basic_2020='2020 Basic Grant', basic_2019='2019 Basic Grant', basic_2018='2018 Basic Grant', enhanced_2023='2023 Enhancement Grant', enhanced_2022='2022 Enhancement Grant', enhanced_2021='2021 Enhancement Grant', enhanced_2020='2020 Enhancement Grant', enhanced_2019='2019 Enhancement Grant', enhanced_2018='2018 Enhancement Grant', num_basic_years_applied='# of Applications to Basic Grant', num_enhanced_years_applied='# of Applications to Enhancement Grant', can_apply_enhanced_2024='Can Apply in 2024'))
 export_to_csv(tribes, "sorted_tribes.csv")
